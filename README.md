@@ -4,62 +4,68 @@
   <strong>Systems Builder | Automation | Web Development</strong>
 </p>
 
-<hr>
-
-<h2>About</h2>
-
-<p>
-  Computer Science student focused on building practical systems that improve workflows
-  and reduce operational errors.
+<p align="center">
+  Building practical systems that improve workflows, reduce errors, and support business operations.
 </p>
 
-<ul>
-  <li>Automation workflows using n8n</li>
-  <li>Backend logic and APIs</li>
-  <li>Business systems: CRM, booking, dashboards</li>
-</ul>
-
-<hr>
-
-<h2>Tech</h2>
-
-<p>
-  JavaScript &bull; TypeScript &bull; Python &bull; Node.js &bull; React &bull; Next.js
-  &bull; PostgreSQL &bull; Docker &bull; Git &bull; n8n
+<p align="center">
+  <a href="mailto:qusai.m.gubran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tarhplatform.com">
+    <img src="https://img.shields.io/badge/Website-Tarh_Platform-green?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
-<hr>
+---
 
-<h2>Focus</h2>
+## 👋 About
 
-<table>
-  <tr>
-    <td><strong>Automation Systems</strong></td>
-    <td>Workflows and integrations</td>
-  </tr>
-  <tr>
-    <td><strong>Backend Systems</strong></td>
-    <td>APIs and validation</td>
-  </tr>
-  <tr>
-    <td><strong>Business Systems</strong></td>
-    <td>CRM, booking, and dashboards</td>
-  </tr>
-</table>
+Computer Science student focused on building real-world systems for automation, backend logic, and business operations.
 
-<hr>
+---
 
-<h2>Goal</h2>
+## ⚡ Core Focus
+
+```text
+Automation Systems  → n8n, workflows, integrations
+Backend Systems     → APIs, validation, business logic
+Business Systems    → CRM, booking, dashboards
+AI Layer            → productivity and decision support
+```
+
+---
+
+## 🧰 Tech Stack
 
 <p>
-  Build reliable, scalable systems that solve real business problems.
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge"/>
 </p>
 
-<hr>
+---
 
-<h2>Contact</h2>
+## 🚀 Building
 
-<p>
-  Email:
-  <a href="mailto:qusai.m.gubran@gmail.com">qusai.m.gubran@gmail.com</a>
-</p>
+- WhatsApp booking systems
+- Automation workflows
+- Business productivity tools
+- Backend APIs and validation layers
+
+---
+
+## 🎯 Direction
+
+Building reliable, scalable, and business-focused systems.
