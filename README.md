@@ -14,7 +14,7 @@
 
 ```text
 Automation Systems     → n8n, workflows, integrations
-Backend Systems       → APIs, logic, validation
+Backend Systems       → APIs, validation, logic
 Business Systems      → CRM, booking, dashboards
 AI Layer              → productivity & decision support
 ```
@@ -27,12 +27,12 @@ I'm **QUSAI GUBRAN**, a Computer Science student focused on building real-world 
 
 I don’t just write code — I design systems that solve operational problems and improve how businesses run.
 
-My work sits at the intersection of:
+My work focuses on:
 
-- Automation
-- Backend logic
-- Workflow design
-- Business systems
+- Automation workflows
+- Backend logic and APIs
+- System design and structure
+- Business process optimization
 
 ---
 
@@ -47,6 +47,8 @@ My work sits at the intersection of:
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge"/>
 </p>
 
@@ -55,7 +57,7 @@ My work sits at the intersection of:
 ## 🚀 Featured Systems
 
 ### 🔹 WhatsApp Booking Engine
-End-to-end booking system with:
+End-to-end booking system including:
 
 - Intent detection
 - Slot generation
@@ -66,11 +68,11 @@ End-to-end booking system with:
 ---
 
 ### 🔹 Tarh Automation Workflows
-Operational automation for:
+Operational automation system for:
 
 - Customer routing
-- Sales handling
-- Appointment flows
+- Sales workflows
+- Appointment scheduling
 - Data validation pipelines
 
 ---
@@ -87,11 +89,11 @@ Systems designed to:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qusaigubran&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qusaigubran&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusaigubran&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusaigubran&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -115,5 +117,8 @@ I’m building toward:
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://tarhplatform.com">
+    <img src="https://img.shields.io/badge/Website-Tarh_Platform-green?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
