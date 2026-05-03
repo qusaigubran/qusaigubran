@@ -14,10 +14,6 @@
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tarhplatform.com">
-    <img src="https://img.shields.io/badge/Website-Tarh_Platform-green?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
 </p>
 
 ---
