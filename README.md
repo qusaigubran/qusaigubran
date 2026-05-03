@@ -12,7 +12,7 @@
   <a href="mailto:qusai.m.gubran@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/qusai-gubran-b34240306/">
+  <a href="https://www.linkedin.com/in/qusaigubran">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
