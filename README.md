@@ -81,52 +81,75 @@ Reliable Enterprise Solution
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Technology%20Stack-Enterprise%20%2B%20AI%20Builder-0A66C2?style=for-the-badge" alt="Technology Stack" />
+<img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Visual%20Stack%20Cards-0A66C2?style=for-the-badge" alt="Tools and Technologies" />
 
 <br />
 <br />
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,postgres,docker,git,github,vscode,linux" alt="Core tools and technologies" />
 
 </div>
 
-<br />
-
 <table>
   <tr>
-    <th align="left">Layer</th>
-    <th align="left">Tools</th>
-    <th align="left">Purpose</th>
+    <td width="33%" valign="top" align="center">
+      <h3>Software Foundations</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      </p>
+      <sub>HTML · CSS · JavaScript · TypeScript · Python</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Frontend & App Layer</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+      </p>
+      <sub>React · Next.js · UI Structure · User Flows</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Backend & Data</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+      </p>
+      <sub>Node.js · APIs · Validation · PostgreSQL</sub>
+    </td>
   </tr>
   <tr>
-    <td><strong>Software Foundations</strong></td>
-    <td><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Python</code></td>
-    <td>Core programming, structure, scripting, and problem solving.</td>
-  </tr>
-  <tr>
-    <td><strong>Application Layer</strong></td>
-    <td><code>React</code> · <code>Next.js</code> · <code>UI structure</code> · <code>User flows</code></td>
-    <td>Interfaces, screens, forms, dashboards, and user-facing workflows.</td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Data</strong></td>
-    <td><code>Node.js</code> · <code>APIs</code> · <code>Validation</code> · <code>PostgreSQL</code></td>
-    <td>Business logic, data handling, validation, and reliable system behavior.</td>
-  </tr>
-  <tr>
-    <td><strong>Enterprise & AI</strong></td>
-    <td><code>Enterprise systems</code> · <code>AI workflows</code> · <code>CRM</code> · <code>Dashboards</code></td>
-    <td>Operational visibility, decision support, process improvement, and business systems.</td>
-  </tr>
-  <tr>
-    <td><strong>Automation & Operations</strong></td>
-    <td><code>n8n</code> · <code>Meta Business</code> · <code>Integrations</code> · <code>Workflow automation</code></td>
-    <td>Reducing repetitive work, connecting tools, and improving operational execution.</td>
-  </tr>
-  <tr>
-    <td><strong>Developer Workflow</strong></td>
-    <td><code>Git</code> · <code>GitHub</code> · <code>Docker</code> · <code>VS Code</code> · <code>WSL</code></td>
-    <td>Version control, development environment, containers, and project organization.</td>
+    <td width="33%" valign="top" align="center">
+      <h3>Enterprise & AI</h3>
+      <p>
+        <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI" />
+        <img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="48" height="48" alt="CRM Systems" />
+        <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48" height="48" alt="Dashboards" />
+      </p>
+      <sub>AI Workflows · CRM Systems · Dashboards · Business Systems</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Automation & Operations</h3>
+      <p>
+        <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+        <img src="https://cdn.simpleicons.org/meta/0866FF" width="48" height="48" alt="Meta Business" />
+        <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" />
+      </p>
+      <sub>n8n · Meta Business · Integrations · Workflow Automation</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Developer Workflow</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux / WSL" />
+      </p>
+      <sub>Git · GitHub · Docker · VS Code · WSL</sub>
+    </td>
   </tr>
 </table>
 
