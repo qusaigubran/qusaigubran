@@ -1,35 +1,18 @@
 <div align="center" id="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:0F172A,100:181717&height=260&section=header&text=QUSAI%20GUBRAN&fontSize=50&fontColor=FFFFFF&fontAlignY=34&desc=Computer%20Science%20Student%20%7C%20Systems%20Builder%20%7C%20Automation%20%26%20Web%20Development&descSize=17&descAlignY=55&animation=fadeIn" alt="Qusai Gubran Header Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:0A66C2,100:181717&height=210&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Automation%20%26%20Web%20Development&descSize=16&descAlignY=60&animation=fadeIn" alt="Qusai Gubran Header" />
 
-<h3>Building practical systems that improve workflows, reduce errors, and support better decisions.</h3>
+<h3>Building structured digital systems through software foundations, automation, and practical project work.</h3>
 
 <p>
-  <strong>Computer Science Student</strong> · <strong>Automation Learner</strong> · <strong>Web Development Learner</strong> · <strong>Business Systems Builder</strong>
+  <strong>Computer Science Student</strong> · <strong>Systems Builder</strong> · <strong>Automation</strong> · <strong>Web Development</strong>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&center=true&vCenter=true&width=820&lines=Learning+Software+Engineering+Step+by+Step;Building+Automation+and+Workflow+Systems;Practicing+Frontend%2C+Backend%2C+and+Data+Handling;Improving+Through+Real+Projects+and+Clean+Documentation" alt="Typing SVG" />
-
-<br />
-<br />
-
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-Profile-0F172A?style=for-the-badge&logo=readme&logoColor=white" alt="About Profile" /></a>
-<a href="#-core-focus"><img src="https://img.shields.io/badge/Core%20Focus-Systems%20Thinking-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Systems Thinking" /></a>
-<a href="#-tools-i-use"><img src="https://img.shields.io/badge/Tools-Organized%20Stack-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tools Stack" /></a>
-<a href="#-current-learning-path"><img src="https://img.shields.io/badge/Learning%20Path-Current%20Track-412991?style=for-the-badge&logo=target&logoColor=white" alt="Learning Path" /></a>
-
-<br />
-<br />
-
-<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-qusaigubran24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Qusai%20Gubran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Learning%20Now-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React%20%7C%20Python-0F172A?style=flat-square" alt="Learning Now" />
-<img src="https://img.shields.io/badge/Workflow-Docker%20%7C%20WSL%20%7C%20GitHub%20%7C%20VS%20Code-0A66C2?style=flat-square" alt="Workflow Tools" />
+<p>
+  <a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 </div>
 
