@@ -30,43 +30,11 @@
 
 ## 👋 About Me
 
-<div align="center">
+I am a Computer Science student learning how **software**, **data**, **workflows**, and **AI** can support reliable enterprise solutions.
 
-<img src="https://img.shields.io/badge/Profile%20Signal-Enterprise%20Solutions%20%2B%20AI-0A66C2?style=for-the-badge" alt="Profile Signal" />
-
-<br />
-<br />
-
-</div>
-
-```text
-Identity  → Computer Science student building software foundations
-Direction → Enterprise solutions, AI-assisted systems, and business workflows
-Method    → Understand the process, model the data, build the smallest reliable version
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software-Foundations-0F172A?style=flat-square" alt="Software Foundations" />
-<img src="https://img.shields.io/badge/Business-Workflows-0A66C2?style=flat-square" alt="Business Workflows" />
-<img src="https://img.shields.io/badge/Structured-Data-181717?style=flat-square" alt="Structured Data" />
-<img src="https://img.shields.io/badge/AI-Assisted-Systems-0A66C2?style=flat-square" alt="AI Assisted Systems" />
-
-</div>
-
-<br />
-
-I am learning how organizations use **software**, **data**, **workflows**, and **AI** to build reliable digital solutions.
+I am building my foundation in **software engineering**, **backend systems**, **structured data**, and **AI-assisted business workflows**.
 
 My focus is to understand the business process first, then design systems that are simple to use, structured to maintain, and practical enough to improve real operations.
-
-<div align="center">
-
-<a href="#-core-focus"><img src="https://img.shields.io/badge/Next-Core%20Focus-0A66C2?style=flat-square" alt="Core Focus" /></a>
-<a href="#-tools--technologies"><img src="https://img.shields.io/badge/Explore-Tools-181717?style=flat-square" alt="Tools" /></a>
-<a href="#-development-roadmap"><img src="https://img.shields.io/badge/View-Roadmap-0F172A?style=flat-square" alt="Roadmap" /></a>
-
-</div>
 
 ---
 
