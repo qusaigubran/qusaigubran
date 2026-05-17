@@ -150,16 +150,27 @@ I build my foundation step by step through real projects, workflow automation, b
 
 ---
 
-## 📊 GitHub Activity Snapshot
+## 📌 Public GitHub Profile
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qusaigubran&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusaigubran&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
-> These cards reflect public GitHub activity only. They are visual indicators, not a measure of full skill level.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Public_Profile-Active-0A66C2?style=for-the-badge&logo=github" alt="Public Profile Active" />
+      <br />
+      <sub>Using GitHub to document learning and practical projects.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Focus-Clean_Repositories-181717?style=for-the-badge&logo=git" alt="Clean repositories" />
+      <br />
+      <sub>Organizing code, notes, setup files, and project structure.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Direction-Learning_in_Public-0A66C2?style=for-the-badge&logo=readme" alt="Learning in public" />
+      <br />
+      <sub>Showing progress without overstating skill level.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
