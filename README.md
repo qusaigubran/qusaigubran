@@ -14,7 +14,6 @@
 <br />
 
 <a href="#-current-learning-path"><img src="https://img.shields.io/badge/Learning%20Path-Current%20Focus-0A66C2?style=flat-square&logo=readme&logoColor=white" alt="Learning Path" /></a>
-<a href="#-solutions-im-learning-to-build"><img src="https://img.shields.io/badge/Solutions-Learning%20By%20Building-181717?style=flat-square&logo=stackblitz&logoColor=white" alt="Solutions" /></a>
 <a href="#-goal"><img src="https://img.shields.io/badge/Goal-Growth%20Direction-0F172A?style=flat-square&logo=target&logoColor=white" alt="Goal" /></a>
 
 <br />
@@ -30,11 +29,9 @@
 
 ## 👋 About Me
 
-I am a Computer Science student learning how **software**, **data**, **workflows**, and **AI** can support reliable enterprise solutions.
+I am a Computer Science student building a strong foundation in **software engineering**, **backend systems**, **structured data**, and **AI-assisted workflows**.
 
-I am building my foundation in **software engineering**, **backend systems**, **structured data**, and **AI-assisted business workflows**.
-
-My focus is to understand the business process first, then design systems that are simple to use, structured to maintain, and practical enough to improve real operations.
+My focus is to understand real workflows first, then build simple and reliable systems that improve operations step by step.
 
 ---
 
@@ -47,13 +44,7 @@ My focus is to understand the business process first, then design systems that a
 </div>
 
 ```text
-Problem Understanding
-        ↓
-Workflow + Data Structure
-        ↓
-Backend Logic + Validation
-        ↓
-Practical System Improvement
+Problem Understanding → Workflow + Data → Backend Logic → Practical Improvement
 ```
 
 <div align="center">
@@ -88,7 +79,6 @@ Practical System Improvement
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
-      <sub>Programming basics, structure, scripting, and problem solving.</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Frontend & App Layer</h3>
@@ -96,10 +86,7 @@ Practical System Improvement
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/UI_Structure-0F172A?style=flat-square" alt="UI Structure" />
-        <img src="https://img.shields.io/badge/User_Flows-0A66C2?style=flat-square" alt="User Flows" />
       </p>
-      <sub>Interfaces, screens, dashboards, forms, and user-facing workflows.</sub>
     </td>
   </tr>
   <tr>
@@ -109,36 +96,21 @@ Practical System Improvement
         <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
-        <img src="https://img.shields.io/badge/Validation-181717?style=flat-square&logo=checkmarx&logoColor=white" alt="Validation" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
-      <sub>Business logic, validation, structured data, and reliable behavior.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>Enterprise & AI</h3>
+      <h3>Enterprise, AI & Workflow</h3>
       <p>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/AI_Workflows-181717?style=flat-square&logo=openai&logoColor=white" alt="AI Workflows" />
         <img src="https://img.shields.io/badge/CRM_Systems-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="CRM Systems" />
-        <img src="https://img.shields.io/badge/Dashboards-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Dashboards" />
-        <img src="https://img.shields.io/badge/Business_Systems-0A66C2?style=flat-square" alt="Business Systems" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Meta_Business-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Business" />
       </p>
-      <sub>Visibility, decision support, and AI-assisted learning experiments.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Automation & Operations</h3>
-      <p>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-        <img src="https://img.shields.io/badge/Meta_Business-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Business" />
-        <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
-        <img src="https://img.shields.io/badge/Integrations-0F172A?style=flat-square" alt="Integrations" />
-        <img src="https://img.shields.io/badge/Workflow_Automation-181717?style=flat-square" alt="Workflow Automation" />
-      </p>
-      <sub>Connecting tools, reducing repetition, and improving execution.</sub>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top" align="center">
       <h3>Developer Workflow</h3>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -147,7 +119,6 @@ Practical System Improvement
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
         <img src="https://img.shields.io/badge/WSL-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="WSL" />
       </p>
-      <sub>Version control, development environment, containers, and organization.</sub>
     </td>
   </tr>
 </table>
@@ -164,46 +135,17 @@ Practical System Improvement
 
 <br />
 
-| Stage | What I’m Practicing | Learning Outcome |
+| Stage | Focus | Outcome |
 |---|---|---|
-| **Foundation** | Programming basics, problem solving, data structures, algorithms, and clean code habits. | Build stronger logic and write clearer small programs. |
-| **Systems** | Backend APIs, validation, databases, dashboards, and workflow analysis. | Understand how real processes become structured software. |
-| **Intelligence** | AI-assisted productivity, decision support ideas, documentation, Git, Docker, and review habits. | Learn how to improve systems responsibly after the basics work. |
+| **Foundation** | Programming, problem solving, data structures, and clean code. | Stronger logic and clearer small programs. |
+| **Systems** | APIs, validation, databases, dashboards, and workflow analysis. | Better understanding of how real processes become software. |
+| **Intelligence** | AI support, automation ideas, documentation, Git, Docker, and review habits. | Responsible improvement after the basics work. |
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Now-Foundation-0F172A?style=flat-square" alt="Now" />
 <img src="https://img.shields.io/badge/Next-Systems-0A66C2?style=flat-square" alt="Next" />
 <img src="https://img.shields.io/badge/Later-Intelligence-181717?style=flat-square" alt="Later" />
-<img src="https://img.shields.io/badge/Always-Practice%20%2B%20Review-0A66C2?style=flat-square" alt="Always" />
-
-</div>
-
----
-
-## 🚀 Solutions I’m Learning to Build
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Learning%20Through-Building%20Useful%20Systems-0A66C2?style=for-the-badge" alt="Learning Through Building" />
-
-</div>
-
-<br />
-
-| Learning Domain | What I’m Practicing | What I’m Learning From It |
-|---|---|---|
-| **Business Workflow Tools** | Small workflow screens, internal tools, and operational forms. | How real processes can be simplified and organized with software. |
-| **AI Support Experiments** | Summaries, productivity helpers, decision-support ideas, and repeated-task support. | When AI is useful and when simple logic is enough. |
-| **Backend APIs** | Validation, business rules, structured data, and API behavior. | How reliable systems protect data and control the critical path. |
-| **Dashboards & Visibility** | CRM views, tracking screens, reporting, and operational status. | How information becomes useful when it is organized and visible. |
-| **Automation Workflows** | Tool integrations, notifications, and repetitive task reduction. | How automation can support execution without replacing system design. |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Learn-By%20Building-0F172A?style=flat-square" alt="Learn by Building" />
-<img src="https://img.shields.io/badge/Build-To%20Understand-0A66C2?style=flat-square" alt="Build to Understand" />
-<img src="https://img.shields.io/badge/Improve-With%20Practice-181717?style=flat-square" alt="Improve with Practice" />
 
 </div>
 
@@ -219,11 +161,9 @@ Practical System Improvement
 
 <br />
 
-My goal is to grow into a capable software developer who can understand real problems, design clear solutions, and keep improving through practical projects.
+My goal is to grow into a capable software developer who can understand real problems, design clear solutions, and improve through practical projects.
 
 I want to connect technical skills with useful systems that help organize work, improve visibility, and support better decisions.
-
-I will keep learning by building, reviewing, documenting, and improving step by step.
 
 <div align="center">
 
