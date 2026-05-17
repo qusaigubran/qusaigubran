@@ -234,35 +234,16 @@ journey
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Build%20Compass-Engineering%20Decision%20Rule-0A66C2?style=for-the-badge" alt="Build Compass" />
+<img src="https://img.shields.io/badge/Build%20Compass-5%20Simple%20Rules-0A66C2?style=for-the-badge" alt="Build Compass" />
 
 </div>
 
-```mermaid
-flowchart TD
-    A[Business problem] --> B{Is the workflow clear?}
-    B -- No --> C[Map users, steps, pain points]
-    C --> B
-    B -- Yes --> D[Define data and business rules]
-    D --> E[Build the smallest reliable version]
-    E --> F{Does the critical path work?}
-    F -- No --> G[Fix logic, validation, and flow]
-    G --> F
-    F -- Yes --> H{Can AI or automation add real value?}
-    H -- No --> I[Document and improve usability]
-    H -- Yes --> J[Add AI or automation carefully]
-    J --> I
-    I --> K[Review, learn, and iterate]
-```
-
-**Decision rule I follow while learning and building:**
-
 ```text
-If the problem is unclear, map the workflow first.
-If the data and rules are unclear, do not build the interface first.
-If the critical path fails, do not add more features.
-If AI or automation does not reduce effort or improve decisions, keep the system simple.
-If the system works, document it, review it, and improve it step by step.
+Understand the workflow before choosing tools.
+Keep the first version small and reliable.
+Protect the critical path with validation and clear logic.
+Use AI and automation only when they add real value.
+Review, document, and improve after the system works.
 ```
 
 ---
