@@ -230,31 +230,14 @@ journey
 
 ---
 
-## 🧭 Build Compass
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Build%20Compass-5%20Simple%20Rules-0A66C2?style=for-the-badge" alt="Build Compass" />
-
-</div>
-
-```text
-Understand the workflow before choosing tools.
-Keep the first version small and reliable.
-Protect the critical path with validation and clear logic.
-Use AI and automation only when they add real value.
-Review, document, and improve after the system works.
-```
-
----
-
 ## 🗺️ Development Roadmap
 
-| Stage | Focus | Outcome |
+| Stage | Learning Focus | What I’m Building Toward |
 |---|---|---|
-| Now | Software foundations, business workflows, Git/GitHub | Build clean small systems and understand operational problems. |
-| Next | Backend APIs, databases, dashboards, Docker workflows | Build more reliable enterprise-style systems with structured data. |
-| Later | AI-assisted enterprise solutions and scalable business tools | Improve productivity, decisions, and operational processes. |
+| **Now** | Software foundations, Git/GitHub, JavaScript, Python, and problem solving. | Small, clean projects that strengthen programming basics and development habits. |
+| **Next** | Backend APIs, validation, databases, dashboards, and business workflows. | More structured systems that handle data, rules, users, and operational visibility. |
+| **Later** | AI-assisted workflows, automation, integrations, and enterprise-style tools. | Practical solutions that support productivity, decisions, and process improvement. |
+| **Ongoing** | Documentation, review discipline, Docker/WSL workflow, and project organization. | A stronger engineering workflow that helps me build, test, learn, and improve consistently. |
 
 ---
 
