@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=190&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Solutions%20%7C%20AI%20%7C%20Business%20Systems&descSize=16&descAlignY=58" alt="Qusai Gubran Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=190&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="Qusai Gubran Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Learning+Enterprise+Software+Solutions;Building+AI-Assisted+Business+Systems;Improving+Workflows+with+Reliable+Systems" alt="Typing SVG" />
+<h3>Computer Science Student · Enterprise Solutions · AI & Business Systems</h3>
+
+<p>
+  Building practical enterprise-focused systems with software, data, workflows, and AI direction.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&center=true&vCenter=true&width=680&lines=Learning+Software+Engineering;Designing+Enterprise+Solutions;Building+AI-Assisted+Business+Systems;Improving+Operations+with+Reliable+Systems" alt="Typing SVG" />
 
 <br />
 <br />
@@ -10,13 +16,6 @@
 <a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Computer%20Science-Student-0F172A?style=flat-square" alt="Computer Science Student" />
-<img src="https://img.shields.io/badge/Focus-Enterprise%20Solutions-0A66C2?style=flat-square" alt="Enterprise Solutions" />
-<img src="https://img.shields.io/badge/Direction-AI%20%26%20Business%20Systems-181717?style=flat-square" alt="AI and Business Systems" />
 
 </div>
 
