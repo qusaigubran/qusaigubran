@@ -50,6 +50,8 @@ Problem Understanding → Workflow Design → Data Structure → Backend Logic �
 
 ### Languages & Foundations
 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
@@ -76,7 +78,7 @@ Problem Understanding → Workflow Design → Data Structure → Backend Logic �
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Meta%20Business-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Business" />
 <img src="https://img.shields.io/badge/CRM%20Systems-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM Systems" />
-<img src="https://img.shields.io/badge/WhatsApp%20Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
+<img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
 
 ### Developer Workflow
 
