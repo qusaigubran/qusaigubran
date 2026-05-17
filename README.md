@@ -1,14 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=190&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38" alt="Qusai Gubran Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:0F172A,100:181717&height=210&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Enterprise%20Solutions%20%7C%20AI%20%7C%20Business%20Systems&descSize=17&descAlignY=58&animation=fadeIn" alt="Qusai Gubran Banner" />
 
-<h3>Computer Science Student · Enterprise Solutions · AI & Business Systems</h3>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Computer Science Student</strong><br />
+      <sub>Learning software engineering fundamentals</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Enterprise Solutions</strong><br />
+      <sub>Business systems, workflows, and operations</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>AI Direction</strong><br />
+      <sub>Productivity, decision support, and smarter systems</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  Building practical enterprise-focused systems with software, data, workflows, and AI direction.
-</p>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&center=true&vCenter=true&width=680&lines=Learning+Software+Engineering;Designing+Enterprise+Solutions;Building+AI-Assisted+Business+Systems;Improving+Operations+with+Reliable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&center=true&vCenter=true&width=680&lines=Learning+Software+Engineering;Designing+Enterprise+Solutions;Building+AI-Assisted+Business+Systems;Improving+Operations+with+Reliable+Systems" alt="Typing SVG" />
 
 <br />
 <br />
