@@ -239,60 +239,37 @@ I build my foundation step by step through real projects, workflow automation, b
 
 ---
 
-## 🧭 System Thinking Loop
+## 🧭 Build Compass
 
 <div align="center">
 
-```mermaid
-flowchart LR
-  A[Understand the real problem] --> B[Map the workflow]
-  B --> C[Define the data]
-  C --> D[Design the logic]
-  D --> E[Build the interface]
-  E --> F[Test the critical path]
-  F --> G[Measure weak points]
-  G --> H[Improve the system]
-  H --> B
-```
+<img src="https://img.shields.io/badge/01-Understand-0A66C2?style=for-the-badge" alt="Understand" />
+<img src="https://img.shields.io/badge/02-Simplify-181717?style=for-the-badge" alt="Simplify" />
+<img src="https://img.shields.io/badge/03-Build-0A66C2?style=for-the-badge" alt="Build" />
+<img src="https://img.shields.io/badge/04-Test-181717?style=for-the-badge" alt="Test" />
+<img src="https://img.shields.io/badge/05-Improve-0A66C2?style=for-the-badge" alt="Improve" />
 
 </div>
 
-<table>
-  <tr>
-    <th>Step</th>
-    <th>How I Think About It</th>
-  </tr>
-  <tr>
-    <td><strong>Problem</strong></td>
-    <td>What manual work, confusion, delay, or error should the system reduce?</td>
-  </tr>
-  <tr>
-    <td><strong>Workflow</strong></td>
-    <td>Who uses the system, what steps do they follow, and where does the process break?</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>What information must be stored, validated, searched, updated, or reported?</td>
-  </tr>
-  <tr>
-    <td><strong>Logic</strong></td>
-    <td>What rules, permissions, calculations, and validations make the system reliable?</td>
-  </tr>
-  <tr>
-    <td><strong>Interface</strong></td>
-    <td>What screen, form, dashboard, or automation step makes the workflow easier?</td>
-  </tr>
-  <tr>
-    <td><strong>Testing</strong></td>
-    <td>What is the critical path that must work correctly before improving anything else?</td>
-  </tr>
-  <tr>
-    <td><strong>Improvement</strong></td>
-    <td>What should be simplified, automated, documented, or redesigned after real use?</td>
-  </tr>
-</table>
+> I do not start with tools. I start with the workflow, the repeated errors, and the smallest useful version that can make the process clearer.
 
-I try to understand the workflow before choosing the tool. A good system starts with a clear problem, then grows through structure, validation, testing, and continuous improvement.
+**My system-building rule:**
+
+```text
+Clear problem first.
+Small reliable version next.
+Improve only after the critical path works.
+```
+
+**What I look for when building:**
+
+- The manual step that can be reduced.
+- The repeated error that can be prevented.
+- The data that must be structured and validated.
+- The user action that should become easier.
+- The critical path that must work before adding more features.
+
+**My engineering direction:** build systems that are simple enough to use, structured enough to maintain, and practical enough to improve real workflows.
 
 ---
 
