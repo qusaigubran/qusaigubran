@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Systems%20Builder%20in%20Progress&descSize=17&descAlignY=58" alt="Qusai Gubran Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Enterprise%20Solutions%20%26%20AI%20Builder%20in%20Progress&descSize=16&descAlignY=58" alt="Qusai Gubran Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=Learning+Software+Engineering+Step+by+Step;Building+Practical+Automation+Workflows;Practicing+Backend+APIs+and+Validation;Designing+Useful+Business+Systems;Improving+by+Building+Real+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=840&lines=Learning+Software+Engineering+Step+by+Step;Designing+Practical+Enterprise+Solutions;Building+Business+Systems+with+AI+Direction;Practicing+Backend+APIs+and+Structured+Data;Improving+Operations+through+Reliable+Systems" alt="Typing SVG" />
 
 <br />
 <br />
@@ -21,8 +21,8 @@
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=qusaigubran&style=for-the-badge&color=0A66C2" alt="Profile views" />
-<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Web-0F172A?style=for-the-badge" alt="Focus" />
-<img src="https://img.shields.io/badge/Learning-Software%20Engineering-0A66C2?style=for-the-badge" alt="Learning" />
+<img src="https://img.shields.io/badge/Focus-Enterprise%20Solutions-0F172A?style=for-the-badge" alt="Enterprise Solutions" />
+<img src="https://img.shields.io/badge/Direction-AI%20%26%20Business%20Systems-0A66C2?style=for-the-badge" alt="AI and Business Systems" />
 
 </div>
 
@@ -30,11 +30,11 @@
 
 ## 👋 About Me
 
-I am a Computer Science student currently learning software engineering, full-stack web development, automation, and practical system design.
+I am a Computer Science student currently learning software engineering, enterprise solutions, AI-assisted systems, and practical system design.
 
-My focus is not only writing code, but understanding how real systems are structured, validated, deployed, maintained, and improved over time.
+My focus is not limited to web development or automation. I am interested in how organizations use software, data, workflows, AI, and business logic to build reliable digital solutions.
 
-I build my foundation step by step through real projects, workflow automation, backend logic, APIs, data handling, and business process improvement.
+I build my foundation step by step through real projects, backend logic, APIs, structured data, business process improvement, automation workflows, and AI productivity layers.
 
 ---
 
@@ -47,16 +47,16 @@ I build my foundation step by step through real projects, workflow automation, b
       <p>Computer Science learner building practical software foundations.</p>
     </td>
     <td align="center" width="25%">
-      <h3>🧠 Systems</h3>
-      <p>Interested in workflows, backend logic, automation, and structured data.</p>
+      <h3>🏢 Enterprise</h3>
+      <p>Interested in business systems, workflows, governance, and operational platforms.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI Direction</h3>
+      <p>Learning how AI can support productivity, decisions, and process improvement.</p>
     </td>
     <td align="center" width="25%">
       <h3>🛠️ Builder</h3>
-      <p>Learning through small real projects, testing, and continuous improvement.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀 Direction</h3>
-      <p>Useful digital systems that reduce manual work and operational errors.</p>
+      <p>Practicing through small real systems, testing, and continuous improvement.</p>
     </td>
   </tr>
 </table>
@@ -68,24 +68,24 @@ I build my foundation step by step through real projects, workflow automation, b
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Automation-Systems-0A66C2?style=for-the-badge" alt="Automation Systems" />
+      <img src="https://img.shields.io/badge/Enterprise-Solutions-0A66C2?style=for-the-badge" alt="Enterprise Solutions" />
       <br />
-      <sub>n8n · workflows · integrations</sub>
+      <sub>business systems · workflows · operations</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Backend-Logic-181717?style=for-the-badge" alt="Backend Logic" />
+      <img src="https://img.shields.io/badge/AI-Enablement-181717?style=for-the-badge" alt="AI Enablement" />
       <br />
-      <sub>APIs · validation · business rules</sub>
+      <sub>productivity · decision support · smart workflows</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Business-Systems-0A66C2?style=for-the-badge" alt="Business Systems" />
+      <img src="https://img.shields.io/badge/Backend-Systems-0A66C2?style=for-the-badge" alt="Backend Systems" />
       <br />
-      <sub>CRM · booking · dashboards</sub>
+      <sub>APIs · validation · data handling</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AI-Productivity-181717?style=for-the-badge" alt="AI Productivity" />
+      <img src="https://img.shields.io/badge/Operational-Automation-181717?style=for-the-badge" alt="Operational Automation" />
       <br />
-      <sub>decision support · process improvement</sub>
+      <sub>process improvement · integrations · dashboards</sub>
     </td>
   </tr>
 </table>
@@ -126,10 +126,11 @@ I build my foundation step by step through real projects, workflow automation, b
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Automation & Business Operations</h3>
+      <h3>Enterprise, AI & Operations</h3>
       <p>
+        <img src="https://img.shields.io/badge/Enterprise_Systems-0F172A?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Enterprise Systems" />
+        <img src="https://img.shields.io/badge/AI_Workflows-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="AI Workflows" />
         <img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
-        <img src="https://img.shields.io/badge/Workflow_Automation-0F172A?style=for-the-badge&logo=zapier&logoColor=FF4A00" alt="Workflow Automation" />
         <img src="https://img.shields.io/badge/Meta_Business-0F172A?style=for-the-badge&logo=meta&logoColor=0866FF" alt="Meta Business" />
         <img src="https://img.shields.io/badge/CRM_Systems-0F172A?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="CRM Systems" />
         <img src="https://img.shields.io/badge/Dashboards-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="Dashboards" />
@@ -179,7 +180,7 @@ I build my foundation step by step through real projects, workflow automation, b
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>1. Programming Foundations</h3>
+      <h3>1. Software Foundations</h3>
       <ul>
         <li>Problem solving</li>
         <li>Data structures and algorithms</li>
@@ -188,20 +189,20 @@ I build my foundation step by step through real projects, workflow automation, b
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>2. Web Development</h3>
+      <h3>2. Enterprise Systems</h3>
       <ul>
-        <li>HTML, CSS, JavaScript</li>
-        <li>React and Next.js</li>
-        <li>APIs and backend fundamentals</li>
+        <li>Business workflows</li>
+        <li>Backend APIs and validation</li>
         <li>Databases and data handling</li>
+        <li>Dashboards and operational visibility</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>3. Engineering Workflow</h3>
+      <h3>3. AI & Engineering Workflow</h3>
       <ul>
-        <li>Git and GitHub</li>
-        <li>Docker and WSL workflow</li>
-        <li>Testing the critical path</li>
+        <li>AI-assisted productivity</li>
+        <li>Decision support workflows</li>
+        <li>Git, GitHub, Docker, and WSL</li>
         <li>Documentation and review discipline</li>
       </ul>
     </td>
@@ -210,29 +211,29 @@ I build my foundation step by step through real projects, workflow automation, b
 
 ---
 
-## 🚀 Systems I’m Learning to Build
+## 🚀 Solutions I’m Learning to Build
 
 <table>
   <tr>
     <td align="center" width="20%">
-      <h3>🌐 Web Apps</h3>
-      <p>Clear screens, useful flows, and practical interfaces.</p>
+      <h3>🏢 Enterprise Systems</h3>
+      <p>Business workflows, internal platforms, and operational structure.</p>
     </td>
     <td align="center" width="20%">
-      <h3>🔌 APIs</h3>
-      <p>Validation, backend logic, and structured data handling.</p>
+      <h3>🤖 AI Layers</h3>
+      <p>Productivity support, decision support, and smarter workflows.</p>
     </td>
     <td align="center" width="20%">
-      <h3>⚙️ Automation</h3>
-      <p>Workflows that reduce repetitive manual work.</p>
+      <h3>🔌 Backend APIs</h3>
+      <p>Validation, business logic, and structured data handling.</p>
     </td>
     <td align="center" width="20%">
       <h3>📊 Dashboards</h3>
-      <p>CRM, booking, tracking, and business visibility.</p>
+      <p>CRM, tracking, reporting, and business visibility.</p>
     </td>
     <td align="center" width="20%">
-      <h3>🤖 AI Layer</h3>
-      <p>Productivity support and decision support workflows.</p>
+      <h3>⚙️ Automation</h3>
+      <p>Workflows that reduce repetitive work and operational errors.</p>
     </td>
   </tr>
 </table>
@@ -251,25 +252,26 @@ I build my foundation step by step through real projects, workflow automation, b
 
 </div>
 
-> I do not start with tools. I start with the workflow, the repeated errors, and the smallest useful version that can make the process clearer.
+> I do not start with tools. I start with the business problem, the workflow, the repeated errors, and the smallest useful version that can make the process clearer.
 
 **My system-building rule:**
 
 ```text
 Clear problem first.
 Small reliable version next.
-Improve only after the critical path works.
+AI and automation only where they create real value.
+Improve after the critical path works.
 ```
 
 **What I look for when building:**
 
-- The manual step that can be reduced.
+- The business process that needs structure.
 - The repeated error that can be prevented.
-- The data that must be structured and validated.
-- The user action that should become easier.
+- The data that must be organized, validated, and reported.
+- The decision point where AI can support the user.
 - The critical path that must work before adding more features.
 
-**My engineering direction:** build systems that are simple enough to use, structured enough to maintain, and practical enough to improve real workflows.
+**My engineering direction:** build enterprise-focused systems that are simple enough to use, structured enough to maintain, and practical enough to improve real operations.
 
 ---
 
@@ -283,17 +285,17 @@ Improve only after the critical path works.
   </tr>
   <tr>
     <td><strong>Now</strong></td>
-    <td>Web fundamentals, Git/GitHub, automation basics</td>
-    <td>Build clean small projects and understand core workflows.</td>
+    <td>Software foundations, business workflows, Git/GitHub</td>
+    <td>Build clean small systems and understand operational problems.</td>
   </tr>
   <tr>
     <td><strong>Next</strong></td>
-    <td>Backend APIs, databases, Docker workflows</td>
-    <td>Build more reliable full-stack and backend-supported systems.</td>
+    <td>Backend APIs, databases, dashboards, Docker workflows</td>
+    <td>Build more reliable enterprise-style systems with structured data.</td>
   </tr>
   <tr>
     <td><strong>Later</strong></td>
-    <td>AI-assisted systems and scalable business tools</td>
+    <td>AI-assisted enterprise solutions and scalable business tools</td>
     <td>Improve productivity, decisions, and operational processes.</td>
   </tr>
 </table>
@@ -302,13 +304,13 @@ Improve only after the critical path works.
 
 ## 🎯 Goal
 
-To grow into a capable software developer who can build useful, reliable, and well-structured digital solutions for real operational problems.
+To grow into a capable software developer who can build useful, reliable, and well-structured enterprise solutions supported by AI, data, and practical system design.
 
 ---
 
 <div align="center">
 
-### Learning by building. Improving through real systems.
+### Learning by building. Improving through enterprise-focused systems.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=120&section=footer" alt="Footer wave" />
 
