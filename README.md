@@ -76,47 +76,39 @@ I am building my foundation in **software engineering**, **backend systems**, **
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Core%20Focus-Enterprise%20Systems%20%2B%20AI-0A66C2?style=for-the-badge" alt="Core Focus" />
-
-<br />
-<br />
-
-<a href="#enterprise-solutions"><img src="https://img.shields.io/badge/Enterprise%20Solutions-Operational%20Systems-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Enterprise Solutions" /></a>
-<a href="#ai-enablement"><img src="https://img.shields.io/badge/AI%20Enablement-Decision%20Support-181717?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enablement" /></a>
-<a href="#backend-systems"><img src="https://img.shields.io/badge/Backend%20Systems-Logic%20%26%20Data-0F172A?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Systems" /></a>
-<a href="#operational-automation"><img src="https://img.shields.io/badge/Operational%20Automation-Workflow%20Improvement-0A66C2?style=for-the-badge&logo=n8n&logoColor=white" alt="Operational Automation" /></a>
+<img src="https://img.shields.io/badge/Core%20Focus-Strategic%20System%20Map-0A66C2?style=for-the-badge" alt="Core Focus" />
 
 </div>
 
-<br />
+```mermaid
+mindmap
+  root((Enterprise Solutions + AI))
+    Enterprise Systems
+      Business workflows
+      Internal platforms
+      Operational visibility
+    AI Enablement
+      Productivity support
+      Decision support
+      Smart workflows
+    Backend Systems
+      APIs
+      Validation
+      Structured data
+    Operational Automation
+      Integrations
+      Dashboards
+      Error reduction
+```
 
-<a id="enterprise-solutions"></a>
-<details>
-  <summary><strong>🏢 Enterprise Solutions</strong></summary>
-  <br />
-  Business systems, internal platforms, workflows, operational structure, and process visibility.
-</details>
+<div align="center">
 
-<a id="ai-enablement"></a>
-<details>
-  <summary><strong>🤖 AI Enablement</strong></summary>
-  <br />
-  AI-supported productivity, decision support, smarter workflows, and practical assistance inside business processes.
-</details>
+<img src="https://img.shields.io/badge/Enterprise-Systems-0A66C2?style=flat-square" alt="Enterprise Systems" />
+<img src="https://img.shields.io/badge/AI-Enablement-181717?style=flat-square" alt="AI Enablement" />
+<img src="https://img.shields.io/badge/Backend-Systems-0F172A?style=flat-square" alt="Backend Systems" />
+<img src="https://img.shields.io/badge/Operations-Automation-0A66C2?style=flat-square" alt="Operations Automation" />
 
-<a id="backend-systems"></a>
-<details>
-  <summary><strong>🔌 Backend Systems</strong></summary>
-  <br />
-  APIs, validation, business rules, structured data, and reliable backend logic.
-</details>
-
-<a id="operational-automation"></a>
-<details>
-  <summary><strong>⚙️ Operational Automation</strong></summary>
-  <br />
-  Workflow improvement, integrations, dashboards, repeated-task reduction, and operational error prevention.
-</details>
+</div>
 
 ---
 
