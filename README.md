@@ -81,87 +81,86 @@ Reliable Enterprise Solution
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Visual%20Stack%20Cards-0A66C2?style=for-the-badge" alt="Tools and Technologies" />
-
-<br />
-<br />
+<img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Compact%20Visual%20Badges-0A66C2?style=for-the-badge" alt="Tools and Technologies" />
 
 </div>
+
+<br />
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>Software Foundations</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
-      <sub>HTML · CSS · JavaScript · TypeScript · Python</sub>
+      <sub>Programming basics, structure, scripting, and problem solving.</sub>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>Frontend & App Layer</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/UI_Structure-0F172A?style=flat-square" alt="UI Structure" />
+        <img src="https://img.shields.io/badge/User_Flows-0A66C2?style=flat-square" alt="User Flows" />
       </p>
-      <sub>React · Next.js · UI Structure · User Flows</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>Backend & Data</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-      </p>
-      <sub>Node.js · APIs · Validation · PostgreSQL</sub>
+      <sub>Interfaces, screens, dashboards, forms, and user-facing workflows.</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
+      <h3>Backend & Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
+        <img src="https://img.shields.io/badge/Validation-181717?style=flat-square&logo=checkmarx&logoColor=white" alt="Validation" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <sub>Business logic, validation, structured data, and reliable behavior.</sub>
+    </td>
+    <td width="50%" valign="top">
       <h3>Enterprise & AI</h3>
       <p>
-        <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI" />
-        <img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="48" height="48" alt="CRM Systems" />
-        <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48" height="48" alt="Dashboards" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/AI_Workflows-181717?style=flat-square&logo=openai&logoColor=white" alt="AI Workflows" />
+        <img src="https://img.shields.io/badge/CRM_Systems-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="CRM Systems" />
+        <img src="https://img.shields.io/badge/Dashboards-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Dashboards" />
+        <img src="https://img.shields.io/badge/Business_Systems-0A66C2?style=flat-square" alt="Business Systems" />
       </p>
-      <sub>AI Workflows · CRM Systems · Dashboards · Business Systems</sub>
+      <sub>Enterprise visibility, decision support, and AI-assisted operations.</sub>
     </td>
-    <td width="33%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Automation & Operations</h3>
       <p>
-        <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
-        <img src="https://cdn.simpleicons.org/meta/0866FF" width="48" height="48" alt="Meta Business" />
-        <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Meta_Business-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Business" />
+        <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+        <img src="https://img.shields.io/badge/Integrations-0F172A?style=flat-square" alt="Integrations" />
+        <img src="https://img.shields.io/badge/Workflow_Automation-181717?style=flat-square" alt="Workflow Automation" />
       </p>
-      <sub>n8n · Meta Business · Integrations · Workflow Automation</sub>
+      <sub>Connecting tools, reducing repetition, and improving execution.</sub>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>Developer Workflow</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux / WSL" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/WSL-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="WSL" />
       </p>
-      <sub>Git · GitHub · Docker · VS Code · WSL</sub>
+      <sub>Version control, development environment, containers, and organization.</sub>
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Frontend-Interfaces-0A66C2?style=flat-square" alt="Frontend" />
-<img src="https://img.shields.io/badge/Backend-Logic%20%2B%20Data-181717?style=flat-square" alt="Backend" />
-<img src="https://img.shields.io/badge/AI-Workflow%20Support-0F172A?style=flat-square" alt="AI" />
-<img src="https://img.shields.io/badge/Enterprise-Business%20Systems-0A66C2?style=flat-square" alt="Enterprise" />
-<img src="https://img.shields.io/badge/DevOps-Git%20%2B%20Docker-181717?style=flat-square" alt="DevOps" />
-
-</div>
 
 ---
 
