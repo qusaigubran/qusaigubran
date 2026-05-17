@@ -263,14 +263,18 @@ I want to keep learning by building, reviewing, improving, and connecting techni
 <img src="https://img.shields.io/badge/Build-Practically-0A66C2?style=flat-square" alt="Build Practically" />
 <img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" alt="Improve Continuously" />
 
-</div>
+<br />
+<br />
 
----
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-README-0A66C2?style=flat-square" alt="Back to Top" /></a>
+<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<div align="center">
+<br />
+<br />
 
-### Learning by building. Improving through enterprise-focused systems.
+<sub>Learning by building practical systems, then improving them step by step.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=90&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=100&section=footer" alt="Footer wave" />
 
 </div>
