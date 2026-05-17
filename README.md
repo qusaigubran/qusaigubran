@@ -42,7 +42,25 @@
 
 I am building my foundation in **software engineering**, **backend systems**, **structured data**, and **AI-assisted business workflows**.
 
-My direction is to understand the business process first, then design a system that is simple, useful, and maintainable.
+<details>
+  <summary><strong>🏢 Enterprise Thinking</strong></summary>
+  <br />
+  I look at software as part of a business system: process, users, data, rules, visibility, and continuous improvement.
+</details>
+
+<details>
+  <summary><strong>🤖 AI Direction</strong></summary>
+  <br />
+  I am interested in AI as a practical layer for productivity, decision support, workflow improvement, and reducing repeated manual work.
+</details>
+
+<details>
+  <summary><strong>🧭 How I Build</strong></summary>
+  <br />
+  My direction is to understand the business process first, then design a small reliable version, test the critical path, and improve step by step.
+</details>
+
+<br />
 
 <div align="center">
 
