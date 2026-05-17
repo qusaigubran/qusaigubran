@@ -42,39 +42,38 @@ My focus is to understand the business process first, then design systems that a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Core%20Focus-Strategic%20System%20Map-0A66C2?style=for-the-badge" alt="Core Focus" />
+<img src="https://img.shields.io/badge/Core%20Focus-Focus%20Pipeline-0A66C2?style=for-the-badge" alt="Core Focus Pipeline" />
 
 </div>
 
-```mermaid
-mindmap
-  root((Enterprise Solutions + AI))
-    Enterprise Systems
-      Business workflows
-      Internal platforms
-      Operational visibility
-    AI Enablement
-      Productivity support
-      Decision support
-      Smart workflows
-    Backend Systems
-      APIs
-      Validation
-      Structured data
-    Operational Automation
-      Integrations
-      Dashboards
-      Error reduction
+```text
+Business Problem
+      ↓
+Workflow Understanding
+      ↓
+Structured Data + Backend Logic
+      ↓
+AI Enablement + Operational Automation
+      ↓
+Reliable Enterprise Solution
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Enterprise-Systems-0A66C2?style=flat-square" alt="Enterprise Systems" />
-<img src="https://img.shields.io/badge/AI-Enablement-181717?style=flat-square" alt="AI Enablement" />
-<img src="https://img.shields.io/badge/Backend-Systems-0F172A?style=flat-square" alt="Backend Systems" />
-<img src="https://img.shields.io/badge/Operations-Automation-0A66C2?style=flat-square" alt="Operations Automation" />
+<img src="https://img.shields.io/badge/01-Business%20Problem-0F172A?style=flat-square" alt="Business Problem" />
+<img src="https://img.shields.io/badge/02-Workflow%20Understanding-0A66C2?style=flat-square" alt="Workflow Understanding" />
+<img src="https://img.shields.io/badge/03-Data%20%2B%20Logic-181717?style=flat-square" alt="Data and Logic" />
+<img src="https://img.shields.io/badge/04-AI%20%2B%20Automation-0A66C2?style=flat-square" alt="AI and Automation" />
+<img src="https://img.shields.io/badge/05-Enterprise%20Solution-0F172A?style=flat-square" alt="Enterprise Solution" />
 
 </div>
+
+**Focus areas inside the pipeline:**
+
+- **Enterprise Solutions:** business systems, internal platforms, workflow structure, and operational visibility.
+- **AI Enablement:** practical AI support for productivity, decisions, and smarter workflows.
+- **Backend Systems:** APIs, validation, business rules, and structured data handling.
+- **Operational Automation:** integrations, dashboards, repeated-task reduction, and error prevention.
 
 ---
 
