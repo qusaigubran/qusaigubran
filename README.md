@@ -30,11 +30,29 @@
 
 ## 👋 About Me
 
-I am a Computer Science student currently learning software engineering, enterprise solutions, AI-assisted systems, and practical system design.
+<div align="center">
 
-My focus is not limited to web development or automation. I am interested in how organizations use software, data, workflows, AI, and business logic to build reliable digital solutions.
+<img src="https://img.shields.io/badge/About%20Me-Enterprise%20Solutions%20%26%20AI-0A66C2?style=for-the-badge" alt="About Me" />
 
-I build my foundation step by step through real projects, backend logic, APIs, structured data, business process improvement, automation workflows, and AI productivity layers.
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Identity-Computer%20Science%20Student-0F172A?style=flat-square" alt="Computer Science Student" />
+<img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-0A66C2?style=flat-square" alt="Enterprise Systems" />
+<img src="https://img.shields.io/badge/Direction-AI%20Enablement-181717?style=flat-square" alt="AI Enablement" />
+<img src="https://img.shields.io/badge/Mindset-Build%20Reliable%20Systems-0F172A?style=flat-square" alt="Build Reliable Systems" />
+
+</div>
+
+<br />
+
+> I am a Computer Science student learning how real organizations use software, data, workflows, AI, and business logic to build reliable digital solutions.
+
+I am currently building my foundation in **software engineering**, **enterprise solutions**, **AI-assisted systems**, and **practical system design**.
+
+My focus is not limited to web development or automation. I see web interfaces and automation workflows as parts of a larger system: business process, structured data, backend logic, operational visibility, and AI-supported decision making.
+
+I improve step by step through real projects, backend APIs, validation, dashboards, workflow analysis, and AI productivity layers.
 
 ---
 
