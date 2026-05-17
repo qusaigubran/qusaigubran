@@ -44,7 +44,7 @@ Problem Understanding → Workflow Design → Data Structure → Backend Logic �
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Tools I’m Learning & Using
 
 <div align="center">
 
@@ -90,6 +90,19 @@ Problem Understanding → Workflow Design → Data Structure → Backend Logic �
 
 ---
 
+## 🚧 Featured Projects
+
+These projects represent my current learning direction. Some are private while I continue improving structure, documentation, and code quality.
+
+| Project | Focus | Status |
+|---|---|---|
+| **GitHub Profile System** | Personal README structure, SVG assets, badges, and profile presentation. | Public |
+| **Glow Abaya** | E-commerce learning project focused on frontend, product structure, and workflow thinking. | Private / In progress |
+| **Python Task API** | Backend learning project focused on APIs, task logic, and structured data handling. | Private / Learning |
+| **VS Code Setup Workflow** | Developer environment planning for GitHub, Docker, WSL, and editor productivity. | Private / Planning |
+
+---
+
 ## 🧠 Current Learning Path
 
 | Stage | Focus | Practical Outcome |
@@ -129,8 +142,6 @@ My goal is to grow into a capable software developer who can understand real pro
 <br />
 <br />
 
-<sub>Learning by building practical systems, then improving them step by step.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=100&section=footer" alt="Footer wave" />
+<img width="100%" src="./assets/footer.svg" alt="Qusai Gubran Footer" />
 
 </div>
