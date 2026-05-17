@@ -1,6 +1,6 @@
 <div align="center" id="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=160&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Automation%20%26%20Web%20Development&descSize=15&descAlignY=58&animation=fadeIn" alt="Qusai Gubran Header Wave" />
+<img width="100%" src="./assets/header.svg" alt="Qusai Gubran Header" />
 
 <h3>Building structured digital systems through software foundations, automation, and practical project work.</h3>
 
