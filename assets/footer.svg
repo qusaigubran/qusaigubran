@@ -1,0 +1,14 @@
+<svg width="1200" height="100" viewBox="0 0 1200 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Qusai Gubran Footer</title>
+  <desc id="desc">Professional GitHub profile footer wave for Qusai Gubran</desc>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#181717"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#footerBg)"/>
+  <path d="M0 0H50C100 0 200 0 300 0C400 0 500 0 600 0C700 0 800 0 900 0C1000 0 1100 0 1150 0H1200V28L1150 34C1100 40 1000 52 900 49C800 46 700 28 600 26C500 24 400 38 300 45C200 52 100 48 50 46L0 44V0Z" fill="#FFFFFF" fill-opacity="0.96"/>
+  <text x="600" y="72" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Learning by building practical systems, then improving them step by step.</text>
+</svg>
