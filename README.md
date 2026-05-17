@@ -1,32 +1,28 @@
 <div align="center">
 
-# QUSAI GUBRAN
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Systems%20Builder%20in%20Progress&descSize=17&descAlignY=58" alt="Qusai Gubran Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Systems+Builder+in+Progress;Automation+%26+Web+Development;Learning+by+Building+Real+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=Learning+Software+Engineering+Step+by+Step;Building+Practical+Automation+Workflows;Practicing+Backend+APIs+and+Validation;Designing+Useful+Business+Systems;Improving+by+Building+Real+Projects" alt="Typing SVG" />
 
-<p>
-  <strong>Computer Science Student | Systems Builder | Automation & Web Development</strong>
-</p>
+<br />
+<br />
 
-<p>
-  Building practical systems that improve workflows, reduce errors, and support real business operations.
-</p>
+<a href="mailto:qusaigubran24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/qusaigubran">
+  <img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p>
-  <a href="mailto:qusaigubran24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/qusai-gubran-b34240306/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/qusaigubran">
-    <img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br />
+<br />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=qusaigubran&style=for-the-badge&color=0e75b6" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=qusaigubran&style=for-the-badge&color=0A66C2" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Web-0F172A?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Learning-Software%20Engineering-0A66C2?style=for-the-badge" alt="Learning" />
 
 </div>
 
@@ -38,7 +34,7 @@ I am a Computer Science student currently learning software engineering, full-st
 
 My focus is not only writing code, but understanding how real systems are structured, validated, deployed, maintained, and improved over time.
 
-I am building my foundation step by step through real projects, workflow automation, backend logic, APIs, data handling, and business process improvement.
+I build my foundation step by step through real projects, workflow automation, backend logic, APIs, data handling, and business process improvement.
 
 ---
 
@@ -46,20 +42,22 @@ I am building my foundation step by step through real projects, workflow automat
 
 <table>
   <tr>
-    <td width="25%"><strong>🎓 Role</strong></td>
-    <td>Computer Science student building practical software foundations.</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Focus</strong></td>
-    <td>Automation, backend logic, web applications, and business systems.</td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Method</strong></td>
-    <td>Learn fundamentals, build real workflows, test the critical path, then improve.</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Direction</strong></td>
-    <td>Reliable digital systems that reduce manual work and operational errors.</td>
+    <td align="center" width="25%">
+      <h3>🎓 Student</h3>
+      <p>Computer Science learner building practical software foundations.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠 Systems</h3>
+      <p>Interested in workflows, backend logic, automation, and structured data.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛠️ Builder</h3>
+      <p>Learning through small real projects, testing, and continuous improvement.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀 Direction</h3>
+      <p>Useful digital systems that reduce manual work and operational errors.</p>
+    </td>
   </tr>
 </table>
 
@@ -70,20 +68,24 @@ I am building my foundation step by step through real projects, workflow automat
 <table>
   <tr>
     <td align="center" width="25%">
-      <strong>Automation Systems</strong><br />
-      <sub>n8n, workflows, integrations</sub>
+      <img src="https://img.shields.io/badge/Automation-Systems-0A66C2?style=for-the-badge" alt="Automation Systems" />
+      <br />
+      <sub>n8n · workflows · integrations</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Backend Systems</strong><br />
-      <sub>APIs, validation, business logic</sub>
+      <img src="https://img.shields.io/badge/Backend-Logic-181717?style=for-the-badge" alt="Backend Logic" />
+      <br />
+      <sub>APIs · validation · business rules</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Business Systems</strong><br />
-      <sub>CRM, booking, dashboards</sub>
+      <img src="https://img.shields.io/badge/Business-Systems-0A66C2?style=for-the-badge" alt="Business Systems" />
+      <br />
+      <sub>CRM · booking · dashboards</sub>
     </td>
     <td align="center" width="25%">
-      <strong>AI Layer</strong><br />
-      <sub>productivity and decision support</sub>
+      <img src="https://img.shields.io/badge/AI-Productivity-181717?style=for-the-badge" alt="AI Productivity" />
+      <br />
+      <sub>decision support · process improvement</sub>
     </td>
   </tr>
 </table>
@@ -103,22 +105,22 @@ I am building my foundation step by step through real projects, workflow automat
     <td width="50%" valign="top">
       <h3>Frontend Development</h3>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Backend, APIs & Data</h3>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/APIs-000?style=for-the-badge&logo=fastapi&logoColor=009688" alt="APIs" />
-        <img src="https://img.shields.io/badge/Validation-000?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Validation" />
-        <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688" alt="APIs" />
+        <img src="https://img.shields.io/badge/Validation-0F172A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Validation" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
       </p>
     </td>
   </tr>
@@ -126,21 +128,21 @@ I am building my foundation step by step through real projects, workflow automat
     <td width="50%" valign="top">
       <h3>Automation & Business Operations</h3>
       <p>
-        <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
-        <img src="https://img.shields.io/badge/Workflow_Automation-000?style=for-the-badge&logo=zapier&logoColor=FF4A00" alt="Workflow Automation" />
-        <img src="https://img.shields.io/badge/Meta_Business-000?style=for-the-badge&logo=meta&logoColor=0866FF" alt="Meta Business" />
-        <img src="https://img.shields.io/badge/CRM_Systems-000?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="CRM Systems" />
-        <img src="https://img.shields.io/badge/Dashboards-000?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="Dashboards" />
+        <img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+        <img src="https://img.shields.io/badge/Workflow_Automation-0F172A?style=for-the-badge&logo=zapier&logoColor=FF4A00" alt="Workflow Automation" />
+        <img src="https://img.shields.io/badge/Meta_Business-0F172A?style=for-the-badge&logo=meta&logoColor=0866FF" alt="Meta Business" />
+        <img src="https://img.shields.io/badge/CRM_Systems-0F172A?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="CRM Systems" />
+        <img src="https://img.shields.io/badge/Dashboards-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="Dashboards" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Developer Workflow</h3>
       <p>
-        <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-        <img src="https://img.shields.io/badge/WSL-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="WSL" />
+        <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+        <img src="https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="WSL" />
       </p>
     </td>
   </tr>
@@ -148,27 +150,52 @@ I am building my foundation step by step through real projects, workflow automat
 
 ---
 
+## 📊 GitHub Activity Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qusaigubran&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusaigubran&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+</div>
+
+> These cards reflect public GitHub activity only. They are visual indicators, not a measure of full skill level.
+
+---
+
 ## 🧠 Current Learning Path
 
-```text
-Programming Foundations
-├── Problem solving
-├── Data structures and algorithms
-├── JavaScript and Python basics
-└── Clean code habits
-
-Web Development
-├── HTML, CSS, JavaScript
-├── React and Next.js
-├── APIs and backend fundamentals
-└── Databases and data handling
-
-Engineering Workflow
-├── Git and GitHub
-├── Docker and WSL workflow
-├── Testing the critical path
-└── Documentation and review discipline
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>1. Programming Foundations</h3>
+      <ul>
+        <li>Problem solving</li>
+        <li>Data structures and algorithms</li>
+        <li>JavaScript and Python basics</li>
+        <li>Clean code habits</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>2. Web Development</h3>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React and Next.js</li>
+        <li>APIs and backend fundamentals</li>
+        <li>Databases and data handling</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>3. Engineering Workflow</h3>
+      <ul>
+        <li>Git and GitHub</li>
+        <li>Docker and WSL workflow</li>
+        <li>Testing the critical path</li>
+        <li>Documentation and review discipline</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -176,28 +203,26 @@ Engineering Workflow
 
 <table>
   <tr>
-    <th>System Area</th>
-    <th>Practical Direction</th>
-  </tr>
-  <tr>
-    <td>Web Applications</td>
-    <td>Clear structure, useful screens, practical user flows.</td>
-  </tr>
-  <tr>
-    <td>Backend APIs</td>
-    <td>Validation, business logic, organized data handling.</td>
-  </tr>
-  <tr>
-    <td>Automation Workflows</td>
-    <td>Reduce manual work, repeated tasks, and operational errors.</td>
-  </tr>
-  <tr>
-    <td>Business Systems</td>
-    <td>CRM, booking, dashboards, and process tracking.</td>
-  </tr>
-  <tr>
-    <td>AI-Assisted Tools</td>
-    <td>Productivity support, decision support, and workflow improvement.</td>
+    <td align="center" width="20%">
+      <h3>🌐 Web Apps</h3>
+      <p>Clear screens, useful flows, and practical interfaces.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>🔌 APIs</h3>
+      <p>Validation, backend logic, and structured data handling.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>⚙️ Automation</h3>
+      <p>Workflows that reduce repetitive manual work.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>📊 Dashboards</h3>
+      <p>CRM, booking, tracking, and business visibility.</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>🤖 AI Layer</h3>
+      <p>Productivity support and decision support workflows.</p>
+    </td>
   </tr>
 </table>
 
@@ -207,20 +232,14 @@ Engineering Workflow
 
 <div align="center">
 
-```text
-Problem
-  ↓
-Workflow
-  ↓
-Data
-  ↓
-Logic
-  ↓
-Interface
-  ↓
-Testing
-  ↓
-Improvement
+```mermaid
+graph LR
+  A[Problem] --> B[Workflow]
+  B --> C[Data]
+  C --> D[Logic]
+  D --> E[Interface]
+  E --> F[Testing]
+  F --> G[Improvement]
 ```
 
 </div>
@@ -266,6 +285,6 @@ To grow into a capable software developer who can build useful, reliable, and we
 
 ### Learning by building. Improving through real systems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=100&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=120&section=footer" alt="Footer wave" />
 
 </div>
