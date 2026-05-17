@@ -243,7 +243,27 @@ journey
 
 ## 🎯 Goal
 
-To grow into a capable software developer who can build useful, reliable, and well-structured enterprise solutions supported by AI, data, and practical system design.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Goal-Grow%20Through%20Building-0A66C2?style=for-the-badge" alt="Goal" />
+
+</div>
+
+<br />
+
+My goal is to grow into a capable software developer who can understand real business problems and turn them into useful, reliable, and well-structured digital solutions.
+
+I am especially interested in **enterprise systems**, **backend logic**, **structured data**, **AI-assisted workflows**, and practical tools that improve how teams work.
+
+I want to keep learning by building, reviewing, improving, and connecting technical skills with real operational needs.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learn-Deeply-0F172A?style=flat-square" alt="Learn Deeply" />
+<img src="https://img.shields.io/badge/Build-Practically-0A66C2?style=flat-square" alt="Build Practically" />
+<img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" alt="Improve Continuously" />
+
+</div>
 
 ---
 
