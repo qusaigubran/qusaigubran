@@ -1,6 +1,6 @@
 <div align="center" id="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:0A66C2,100:181717&height=210&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Automation%20%26%20Web%20Development&descSize=16&descAlignY=60&animation=fadeIn" alt="Qusai Gubran Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0F172A,100:0A66C2&height=160&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Automation%20%26%20Web%20Development&descSize=15&descAlignY=58&animation=fadeIn" alt="Qusai Gubran Header Wave" />
 
 <h3>Building structured digital systems through software foundations, automation, and practical project work.</h3>
 
@@ -28,18 +28,19 @@ My current focus is on **web development**, **backend fundamentals**, **automati
 
 ## ⚡ Core Focus
 
+My core focus is to connect technical learning with real workflow problems. I study how a process works, identify where errors or delays happen, then design simple software structures that make the workflow clearer and easier to improve.
+
+**Automation Systems** — building workflow ideas with tools such as n8n, integrations, forms, and repeatable process steps.
+
+**Backend Systems** — learning APIs, validation, business logic, data handling, and the structure behind reliable applications.
+
+**Business Systems** — understanding CRM systems, booking flows, dashboards, customer data, and operational visibility.
+
+**AI Layer** — using AI as a support layer for productivity, documentation, analysis, and better decision support after the core system is clear.
+
 ```text
 Problem Understanding → Workflow Design → Data Structure → Backend Logic → Practical Improvement
 ```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Automation%20Systems-n8n%20%7C%20Workflows%20%7C%20Integrations-0A66C2?style=for-the-badge" alt="Automation Systems" />
-<img src="https://img.shields.io/badge/Backend%20Systems-APIs%20%7C%20Validation%20%7C%20Logic-0F172A?style=for-the-badge" alt="Backend Systems" />
-<img src="https://img.shields.io/badge/Business%20Systems-CRM%20%7C%20Booking%20%7C%20Dashboards-181717?style=for-the-badge" alt="Business Systems" />
-<img src="https://img.shields.io/badge/AI%20Layer-Productivity%20%7C%20Decision%20Support-412991?style=for-the-badge" alt="AI Layer" />
-
-</div>
 
 ---
 
