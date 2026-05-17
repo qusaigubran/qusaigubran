@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Enterprise%20Solutions%20%26%20AI%20Builder%20in%20Progress&descSize=16&descAlignY=58" alt="Qusai Gubran Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0F172A,100:181717&height=180&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=ffffff&fontAlignY=38" alt="Qusai Gubran Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=840&lines=Learning+Software+Engineering+Step+by+Step;Designing+Practical+Enterprise+Solutions;Building+Business+Systems+with+AI+Direction;Practicing+Backend+APIs+and+Structured+Data;Improving+Operations+through+Reliable+Systems" alt="Typing SVG" />
+<h3>Computer Science Student · Enterprise Solutions · AI & Business Systems</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=760&lines=Learning+Software+Engineering+Step+by+Step;Designing+Practical+Enterprise+Solutions;Building+Business+Systems+with+AI+Direction;Improving+Operations+through+Reliable+Systems" alt="Typing SVG" />
 
 <br />
 <br />
