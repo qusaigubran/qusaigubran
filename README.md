@@ -44,7 +44,7 @@ Problem Understanding → Workflow Design → Data Structure → Backend Logic �
 
 ---
 
-## 🧰 Exploring
+## 🧰 Technologies I’m Exploring
 
 <div align="center">
 
