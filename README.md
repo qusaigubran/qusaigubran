@@ -239,23 +239,60 @@ I build my foundation step by step through real projects, workflow automation, b
 
 ---
 
-## 🧭 Engineering Mindset
+## 🧭 System Thinking Loop
 
 <div align="center">
 
 ```mermaid
-graph LR
-  A[Problem] --> B[Workflow]
-  B --> C[Data]
-  C --> D[Logic]
-  D --> E[Interface]
-  E --> F[Testing]
-  F --> G[Improvement]
+flowchart LR
+  A[Understand the real problem] --> B[Map the workflow]
+  B --> C[Define the data]
+  C --> D[Design the logic]
+  D --> E[Build the interface]
+  E --> F[Test the critical path]
+  F --> G[Measure weak points]
+  G --> H[Improve the system]
+  H --> B
 ```
 
 </div>
 
-I try to understand the workflow before choosing the tool, because good systems are built from clear problems, clean structure, and reliable execution.
+<table>
+  <tr>
+    <th>Step</th>
+    <th>How I Think About It</th>
+  </tr>
+  <tr>
+    <td><strong>Problem</strong></td>
+    <td>What manual work, confusion, delay, or error should the system reduce?</td>
+  </tr>
+  <tr>
+    <td><strong>Workflow</strong></td>
+    <td>Who uses the system, what steps do they follow, and where does the process break?</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>What information must be stored, validated, searched, updated, or reported?</td>
+  </tr>
+  <tr>
+    <td><strong>Logic</strong></td>
+    <td>What rules, permissions, calculations, and validations make the system reliable?</td>
+  </tr>
+  <tr>
+    <td><strong>Interface</strong></td>
+    <td>What screen, form, dashboard, or automation step makes the workflow easier?</td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>What is the critical path that must work correctly before improving anything else?</td>
+  </tr>
+  <tr>
+    <td><strong>Improvement</strong></td>
+    <td>What should be simplified, automated, documented, or redesigned after real use?</td>
+  </tr>
+</table>
+
+I try to understand the workflow before choosing the tool. A good system starts with a clear problem, then grows through structure, validation, testing, and continuous improvement.
 
 ---
 
