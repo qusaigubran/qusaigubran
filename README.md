@@ -94,14 +94,14 @@ Problem Understanding → Workflow Design → Data Structure → Backend Logic �
 
 ## 🚧 Featured Projects
 
-These projects represent my current learning direction. Some are private while I continue improving structure, documentation, and code quality.
+These are the real projects I am using to practice software development, workflow thinking, and documentation discipline.
 
-| Project | Focus | Status |
+| Project | Real Purpose | Status |
 |---|---|---|
-| **GitHub Profile System** | Personal README structure, SVG assets, badges, and profile presentation. | Public |
-| **Glow Abaya** | E-commerce learning project focused on frontend, product structure, and workflow thinking. | Private / In progress |
-| **Python Task API** | Backend learning project focused on APIs, task logic, and structured data handling. | Private / Learning |
-| **VS Code Setup Workflow** | Developer environment planning for GitHub, Docker, WSL, and editor productivity. | Private / Planning |
+| **qusaigubran / GitHub Profile** | Build a clean personal GitHub profile using README structure, local SVG assets, organized badges, and clear professional positioning. | Public |
+| **python-task-api** | Practice backend fundamentals by building a task API with Python, FastAPI, SQLite, routing, validation, CRUD operations, and automated tests. | Private / Preparing for public release |
+| **glow-abaya** | Learn e-commerce system structure through an abaya store project, including product presentation, frontend flow, project organization, and review-based development. | Private / In progress |
+| **orvanta** | Practice building and organizing a web project with a stronger focus on structure, implementation workflow, and iterative improvement. | Private / In progress |
 
 ---
 
