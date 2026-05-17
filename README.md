@@ -74,14 +74,49 @@ I am building my foundation in **software engineering**, **backend systems**, **
 
 ## ⚡ Core Focus
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Enterprise Solutions</strong><br /><sub>business systems · workflows · operations</sub></td>
-    <td align="center" width="25%"><strong>AI Enablement</strong><br /><sub>productivity · decision support · smart workflows</sub></td>
-    <td align="center" width="25%"><strong>Backend Systems</strong><br /><sub>APIs · validation · data handling</sub></td>
-    <td align="center" width="25%"><strong>Operational Automation</strong><br /><sub>process improvement · integrations · dashboards</sub></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Core%20Focus-Enterprise%20Systems%20%2B%20AI-0A66C2?style=for-the-badge" alt="Core Focus" />
+
+<br />
+<br />
+
+<a href="#enterprise-solutions"><img src="https://img.shields.io/badge/Enterprise%20Solutions-Operational%20Systems-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Enterprise Solutions" /></a>
+<a href="#ai-enablement"><img src="https://img.shields.io/badge/AI%20Enablement-Decision%20Support-181717?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enablement" /></a>
+<a href="#backend-systems"><img src="https://img.shields.io/badge/Backend%20Systems-Logic%20%26%20Data-0F172A?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Systems" /></a>
+<a href="#operational-automation"><img src="https://img.shields.io/badge/Operational%20Automation-Workflow%20Improvement-0A66C2?style=for-the-badge&logo=n8n&logoColor=white" alt="Operational Automation" /></a>
+
+</div>
+
+<br />
+
+<a id="enterprise-solutions"></a>
+<details>
+  <summary><strong>🏢 Enterprise Solutions</strong></summary>
+  <br />
+  Business systems, internal platforms, workflows, operational structure, and process visibility.
+</details>
+
+<a id="ai-enablement"></a>
+<details>
+  <summary><strong>🤖 AI Enablement</strong></summary>
+  <br />
+  AI-supported productivity, decision support, smarter workflows, and practical assistance inside business processes.
+</details>
+
+<a id="backend-systems"></a>
+<details>
+  <summary><strong>🔌 Backend Systems</strong></summary>
+  <br />
+  APIs, validation, business rules, structured data, and reliable backend logic.
+</details>
+
+<a id="operational-automation"></a>
+<details>
+  <summary><strong>⚙️ Operational Automation</strong></summary>
+  <br />
+  Workflow improvement, integrations, dashboards, repeated-task reduction, and operational error prevention.
+</details>
 
 ---
 
