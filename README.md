@@ -80,25 +80,65 @@ Reliable Enterprise Solution
 ## 🧰 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,postgres,docker,git,github,vscode,linux" alt="Core tools and technologies" />
+
+<img src="https://img.shields.io/badge/Technology%20Stack-Enterprise%20%2B%20AI%20Builder-0A66C2?style=for-the-badge" alt="Technology Stack" />
+
+<br />
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,postgres,docker,git,github,vscode,linux" alt="Core tools and technologies" />
+
 </div>
 
 <br />
 
-**Software Foundations**  
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Python`
+<table>
+  <tr>
+    <th align="left">Layer</th>
+    <th align="left">Tools</th>
+    <th align="left">Purpose</th>
+  </tr>
+  <tr>
+    <td><strong>Software Foundations</strong></td>
+    <td><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Python</code></td>
+    <td>Core programming, structure, scripting, and problem solving.</td>
+  </tr>
+  <tr>
+    <td><strong>Application Layer</strong></td>
+    <td><code>React</code> · <code>Next.js</code> · <code>UI structure</code> · <code>User flows</code></td>
+    <td>Interfaces, screens, forms, dashboards, and user-facing workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Data</strong></td>
+    <td><code>Node.js</code> · <code>APIs</code> · <code>Validation</code> · <code>PostgreSQL</code></td>
+    <td>Business logic, data handling, validation, and reliable system behavior.</td>
+  </tr>
+  <tr>
+    <td><strong>Enterprise & AI</strong></td>
+    <td><code>Enterprise systems</code> · <code>AI workflows</code> · <code>CRM</code> · <code>Dashboards</code></td>
+    <td>Operational visibility, decision support, process improvement, and business systems.</td>
+  </tr>
+  <tr>
+    <td><strong>Automation & Operations</strong></td>
+    <td><code>n8n</code> · <code>Meta Business</code> · <code>Integrations</code> · <code>Workflow automation</code></td>
+    <td>Reducing repetitive work, connecting tools, and improving operational execution.</td>
+  </tr>
+  <tr>
+    <td><strong>Developer Workflow</strong></td>
+    <td><code>Git</code> · <code>GitHub</code> · <code>Docker</code> · <code>VS Code</code> · <code>WSL</code></td>
+    <td>Version control, development environment, containers, and project organization.</td>
+  </tr>
+</table>
 
-**Frontend & Application Development**  
-`React` · `Next.js` · `UI structure` · `User flows`
+<div align="center">
 
-**Backend, APIs & Data**  
-`Node.js` · `APIs` · `Validation` · `PostgreSQL` · `Data handling`
+<img src="https://img.shields.io/badge/Frontend-Interfaces-0A66C2?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/Backend-Logic%20%2B%20Data-181717?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/AI-Workflow%20Support-0F172A?style=flat-square" alt="AI" />
+<img src="https://img.shields.io/badge/Enterprise-Business%20Systems-0A66C2?style=flat-square" alt="Enterprise" />
+<img src="https://img.shields.io/badge/DevOps-Git%20%2B%20Docker-181717?style=flat-square" alt="DevOps" />
 
-**Enterprise, AI & Operations**  
-`Enterprise systems` · `AI workflows` · `CRM systems` · `Dashboards` · `n8n` · `Meta Business`
-
-**Developer Workflow**  
-`Git` · `GitHub` · `Docker` · `VS Code` · `WSL`
+</div>
 
 ---
 
