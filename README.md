@@ -2,28 +2,27 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Enterprise%20Solutions%20%7C%20AI%20%7C%20Business%20Systems&descSize=17&descAlignY=58&animation=fadeIn" alt="Qusai Gubran Banner" />
 
-<h3>Computer Science Student · Enterprise Solutions · AI & Business Systems</h3>
-
-<p>
-  Building practical enterprise-focused systems with software, data, workflows, and AI direction.
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&center=true&vCenter=true&width=680&lines=Learning+Software+Engineering;Designing+Enterprise+Solutions;Building+AI-Assisted+Business+Systems;Improving+Operations+with+Reliable+Systems" alt="Typing SVG" />
 
 <br />
 <br />
 
+<a href="#-about-me"><img src="https://img.shields.io/badge/CS%20Student-Software%20Foundations-0F172A?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science Student" /></a>
 <a href="#-core-focus"><img src="https://img.shields.io/badge/Enterprise%20Solutions-Business%20Systems-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Enterprise Solutions" /></a>
 <a href="#-tools--technologies"><img src="https://img.shields.io/badge/AI%20Direction-Smart%20Workflows-181717?style=for-the-badge&logo=openai&logoColor=white" alt="AI Direction" /></a>
-<a href="#-current-learning-path"><img src="https://img.shields.io/badge/Learning%20Path-CS%20Student-0F172A?style=for-the-badge&logo=readme&logoColor=white" alt="Learning Path" /></a>
-<a href="#-development-roadmap"><img src="https://img.shields.io/badge/Roadmap-Next%20Steps-0A66C2?style=for-the-badge&logo=target&logoColor=white" alt="Development Roadmap" /></a>
+
+<br />
+
+<a href="#-current-learning-path"><img src="https://img.shields.io/badge/Learning%20Path-Current%20Focus-0A66C2?style=flat-square&logo=readme&logoColor=white" alt="Learning Path" /></a>
+<a href="#-solutions-im-learning-to-build"><img src="https://img.shields.io/badge/Solutions-What%20I%20Build-181717?style=flat-square&logo=stackblitz&logoColor=white" alt="Solutions" /></a>
+<a href="#-development-roadmap"><img src="https://img.shields.io/badge/Roadmap-Next%20Steps-0F172A?style=flat-square&logo=target&logoColor=white" alt="Development Roadmap" /></a>
 
 <br />
 <br />
 
-<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
