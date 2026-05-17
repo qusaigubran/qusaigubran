@@ -234,21 +234,35 @@ journey
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Understand-0A66C2?style=flat-square" alt="Understand" />
-<img src="https://img.shields.io/badge/02-Simplify-181717?style=flat-square" alt="Simplify" />
-<img src="https://img.shields.io/badge/03-Build-0A66C2?style=flat-square" alt="Build" />
-<img src="https://img.shields.io/badge/04-Test-181717?style=flat-square" alt="Test" />
-<img src="https://img.shields.io/badge/05-Improve-0A66C2?style=flat-square" alt="Improve" />
+<img src="https://img.shields.io/badge/Build%20Compass-Engineering%20Decision%20Rule-0A66C2?style=for-the-badge" alt="Build Compass" />
 
 </div>
 
-> I do not start with tools. I start with the business problem, the workflow, the repeated errors, and the smallest useful version that can make the process clearer.
+```mermaid
+flowchart TD
+    A[Business problem] --> B{Is the workflow clear?}
+    B -- No --> C[Map users, steps, pain points]
+    C --> B
+    B -- Yes --> D[Define data and business rules]
+    D --> E[Build the smallest reliable version]
+    E --> F{Does the critical path work?}
+    F -- No --> G[Fix logic, validation, and flow]
+    G --> F
+    F -- Yes --> H{Can AI or automation add real value?}
+    H -- No --> I[Document and improve usability]
+    H -- Yes --> J[Add AI or automation carefully]
+    J --> I
+    I --> K[Review, learn, and iterate]
+```
+
+**Decision rule I follow while learning and building:**
 
 ```text
-Clear problem first.
-Small reliable version next.
-AI and automation only where they create real value.
-Improve after the critical path works.
+If the problem is unclear, map the workflow first.
+If the data and rules are unclear, do not build the interface first.
+If the critical path fails, do not add more features.
+If AI or automation does not reduce effort or improve decisions, keep the system simple.
+If the system works, document it, review it, and improve it step by step.
 ```
 
 ---
