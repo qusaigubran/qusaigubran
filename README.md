@@ -204,11 +204,29 @@ journey
 
 ## 🚀 Solutions I’m Learning to Build
 
-- **Enterprise systems** for business workflows, internal platforms, and operational structure.
-- **AI layers** for productivity support, decision support, and smarter workflows.
-- **Backend APIs** with validation, business logic, and structured data handling.
-- **Dashboards** for CRM, tracking, reporting, and business visibility.
-- **Automation workflows** that reduce repetitive work and operational errors.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning%20Through-Building%20Useful%20Systems-0A66C2?style=for-the-badge" alt="Learning Through Building" />
+
+</div>
+
+<br />
+
+| Learning Domain | What I’m Practicing | What I’m Learning From It |
+|---|---|---|
+| **Enterprise Systems** | Small business workflows, internal tools, and structured operational screens. | How organizations translate real processes into software systems. |
+| **AI-Assisted Workflows** | AI support for productivity, summaries, decisions, and repeated tasks. | Where AI adds practical value and where normal logic is enough. |
+| **Backend APIs** | Validation, business rules, structured data, and API behavior. | How reliable systems protect data and control the critical path. |
+| **Dashboards & Visibility** | CRM views, tracking screens, reporting, and operational status. | How data becomes useful when it is organized and visible. |
+| **Automation Workflows** | Tool integrations, notifications, and repetitive task reduction. | How automation improves execution without replacing system design. |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learn-By%20Building-0F172A?style=flat-square" alt="Learn by Building" />
+<img src="https://img.shields.io/badge/Build-To%20Understand-0A66C2?style=flat-square" alt="Build to Understand" />
+<img src="https://img.shields.io/badge/Improve-With%20Practice-181717?style=flat-square" alt="Improve with Practice" />
+
+</div>
 
 ---
 
