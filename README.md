@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Enterprise%20Solutions%20%7C%20AI%20%7C%20Business%20Systems&descSize=17&descAlignY=58&animation=fadeIn" alt="Qusai Gubran Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:0F172A,100:181717&height=220&section=header&text=QUSAI%20GUBRAN&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CS%20Student%20%7C%20Software%20Foundations%20%7C%20Enterprise%20%26%20AI%20Learning&descSize=17&descAlignY=58&animation=fadeIn" alt="Qusai Gubran Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&center=true&vCenter=true&width=680&lines=Learning+Software+Engineering;Designing+Enterprise+Solutions;Building+AI-Assisted+Business+Systems;Improving+Operations+with+Reliable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&center=true&vCenter=true&width=680&lines=Learning+Software+Engineering;Building+Software+Foundations;Exploring+Enterprise+Systems;Learning+AI-Assisted+Workflows" alt="Typing SVG" />
 
 <br />
 <br />
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/CS%20Student-Software%20Foundations-0F172A?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science Student" /></a>
-<a href="#-core-focus"><img src="https://img.shields.io/badge/Enterprise%20Solutions-Business%20Systems-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Enterprise Solutions" /></a>
-<a href="#-tools--technologies"><img src="https://img.shields.io/badge/AI%20Direction-Smart%20Workflows-181717?style=for-the-badge&logo=openai&logoColor=white" alt="AI Direction" /></a>
+<a href="#-core-focus"><img src="https://img.shields.io/badge/Learning%20Direction-Systems%20Thinking-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Learning Direction" /></a>
+<a href="#-tools--technologies"><img src="https://img.shields.io/badge/AI%20Learning-Workflow%20Support-181717?style=for-the-badge&logo=openai&logoColor=white" alt="AI Learning" /></a>
 
 <br />
 
 <a href="#-current-learning-path"><img src="https://img.shields.io/badge/Learning%20Path-Current%20Focus-0A66C2?style=flat-square&logo=readme&logoColor=white" alt="Learning Path" /></a>
-<a href="#-solutions-im-learning-to-build"><img src="https://img.shields.io/badge/Solutions-What%20I%20Build-181717?style=flat-square&logo=stackblitz&logoColor=white" alt="Solutions" /></a>
-<a href="#-development-roadmap"><img src="https://img.shields.io/badge/Roadmap-Next%20Steps-0F172A?style=flat-square&logo=target&logoColor=white" alt="Development Roadmap" /></a>
+<a href="#-solutions-im-learning-to-build"><img src="https://img.shields.io/badge/Solutions-Learning%20By%20Building-181717?style=flat-square&logo=stackblitz&logoColor=white" alt="Solutions" /></a>
+<a href="#-goal"><img src="https://img.shields.io/badge/Goal-Growth%20Direction-0F172A?style=flat-square&logo=target&logoColor=white" alt="Goal" /></a>
 
 <br />
 <br />
@@ -42,38 +42,28 @@ My focus is to understand the business process first, then design systems that a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Core%20Focus-Focus%20Pipeline-0A66C2?style=for-the-badge" alt="Core Focus Pipeline" />
+<img src="https://img.shields.io/badge/Core%20Focus-Learning%20Direction-0A66C2?style=for-the-badge" alt="Core Focus" />
 
 </div>
 
 ```text
-Business Problem
-      ↓
-Workflow Understanding
-      ↓
-Structured Data + Backend Logic
-      ↓
-AI Enablement + Operational Automation
-      ↓
-Reliable Enterprise Solution
+Problem Understanding
+        ↓
+Workflow + Data Structure
+        ↓
+Backend Logic + Validation
+        ↓
+Practical System Improvement
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Business%20Problem-0F172A?style=flat-square" alt="Business Problem" />
-<img src="https://img.shields.io/badge/02-Workflow%20Understanding-0A66C2?style=flat-square" alt="Workflow Understanding" />
-<img src="https://img.shields.io/badge/03-Data%20%2B%20Logic-181717?style=flat-square" alt="Data and Logic" />
-<img src="https://img.shields.io/badge/04-AI%20%2B%20Automation-0A66C2?style=flat-square" alt="AI and Automation" />
-<img src="https://img.shields.io/badge/05-Enterprise%20Solution-0F172A?style=flat-square" alt="Enterprise Solution" />
+<img src="https://img.shields.io/badge/Workflow-Understanding-0A66C2?style=flat-square" alt="Workflow Understanding" />
+<img src="https://img.shields.io/badge/Data-Structure-181717?style=flat-square" alt="Data Structure" />
+<img src="https://img.shields.io/badge/Backend-Logic-0F172A?style=flat-square" alt="Backend Logic" />
+<img src="https://img.shields.io/badge/AI-When%20Useful-0A66C2?style=flat-square" alt="AI When Useful" />
 
 </div>
-
-**Focus areas inside the pipeline:**
-
-- **Enterprise Solutions:** business systems, internal platforms, workflow structure, and operational visibility.
-- **AI Enablement:** practical AI support for productivity, decisions, and smarter workflows.
-- **Backend Systems:** APIs, validation, business rules, and structured data handling.
-- **Operational Automation:** integrations, dashboards, repeated-task reduction, and error prevention.
 
 ---
 
@@ -133,7 +123,7 @@ Reliable Enterprise Solution
         <img src="https://img.shields.io/badge/Dashboards-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Dashboards" />
         <img src="https://img.shields.io/badge/Business_Systems-0A66C2?style=flat-square" alt="Business Systems" />
       </p>
-      <sub>Enterprise visibility, decision support, and AI-assisted operations.</sub>
+      <sub>Visibility, decision support, and AI-assisted learning experiments.</sub>
     </td>
   </tr>
   <tr>
@@ -168,37 +158,26 @@ Reliable Enterprise Solution
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Learning%20Path-Engineering%20Growth%20Track-0A66C2?style=for-the-badge" alt="Learning Path" />
+<img src="https://img.shields.io/badge/Learning%20Path-Mobile%20Friendly%20Track-0A66C2?style=for-the-badge" alt="Learning Path" />
 
 </div>
 
-```mermaid
-journey
-  title Engineering Growth Track
-  section Build the foundation
-    Programming basics: 4: Software Foundations
-    Data structures and algorithms: 3: Software Foundations
-    Clean code habits: 3: Software Foundations
-  section Build useful systems
-    Backend APIs and validation: 4: Enterprise Systems
-    Databases and structured data: 4: Enterprise Systems
-    Dashboards and operational visibility: 3: Enterprise Systems
-  section Add intelligence and discipline
-    AI-assisted productivity: 3: AI Direction
-    Decision support workflows: 3: AI Direction
-    Git, Docker, documentation, and review: 4: Engineering Workflow
-```
+<br />
+
+| Stage | What I’m Practicing | Learning Outcome |
+|---|---|---|
+| **Foundation** | Programming basics, problem solving, data structures, algorithms, and clean code habits. | Build stronger logic and write clearer small programs. |
+| **Systems** | Backend APIs, validation, databases, dashboards, and workflow analysis. | Understand how real processes become structured software. |
+| **Intelligence** | AI-assisted productivity, decision support ideas, documentation, Git, Docker, and review habits. | Learn how to improve systems responsibly after the basics work. |
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Now-Software%20Foundations-0F172A?style=flat-square" alt="Now" />
-<img src="https://img.shields.io/badge/Next-Enterprise%20Systems-0A66C2?style=flat-square" alt="Next" />
-<img src="https://img.shields.io/badge/Then-AI%20Enabled%20Workflows-181717?style=flat-square" alt="Then" />
-<img src="https://img.shields.io/badge/Always-Engineering%20Discipline-0A66C2?style=flat-square" alt="Always" />
+<img src="https://img.shields.io/badge/Now-Foundation-0F172A?style=flat-square" alt="Now" />
+<img src="https://img.shields.io/badge/Next-Systems-0A66C2?style=flat-square" alt="Next" />
+<img src="https://img.shields.io/badge/Later-Intelligence-181717?style=flat-square" alt="Later" />
+<img src="https://img.shields.io/badge/Always-Practice%20%2B%20Review-0A66C2?style=flat-square" alt="Always" />
 
 </div>
-
-**Current learning direction:** build strong foundations, convert business workflows into structured systems, then add AI where it supports real decisions or reduces repeated work.
 
 ---
 
@@ -214,11 +193,11 @@ journey
 
 | Learning Domain | What I’m Practicing | What I’m Learning From It |
 |---|---|---|
-| **Enterprise Systems** | Small business workflows, internal tools, and structured operational screens. | How organizations translate real processes into software systems. |
-| **AI-Assisted Workflows** | AI support for productivity, summaries, decisions, and repeated tasks. | Where AI adds practical value and where normal logic is enough. |
+| **Business Workflow Tools** | Small workflow screens, internal tools, and operational forms. | How real processes can be simplified and organized with software. |
+| **AI Support Experiments** | Summaries, productivity helpers, decision-support ideas, and repeated-task support. | When AI is useful and when simple logic is enough. |
 | **Backend APIs** | Validation, business rules, structured data, and API behavior. | How reliable systems protect data and control the critical path. |
-| **Dashboards & Visibility** | CRM views, tracking screens, reporting, and operational status. | How data becomes useful when it is organized and visible. |
-| **Automation Workflows** | Tool integrations, notifications, and repetitive task reduction. | How automation improves execution without replacing system design. |
+| **Dashboards & Visibility** | CRM views, tracking screens, reporting, and operational status. | How information becomes useful when it is organized and visible. |
+| **Automation Workflows** | Tool integrations, notifications, and repetitive task reduction. | How automation can support execution without replacing system design. |
 
 <div align="center">
 
@@ -227,17 +206,6 @@ journey
 <img src="https://img.shields.io/badge/Improve-With%20Practice-181717?style=flat-square" alt="Improve with Practice" />
 
 </div>
-
----
-
-## 🗺️ Development Roadmap
-
-| Stage | Learning Focus | What I’m Building Toward |
-|---|---|---|
-| **Now** | Software foundations, Git/GitHub, JavaScript, Python, and problem solving. | Small, clean projects that strengthen programming basics and development habits. |
-| **Next** | Backend APIs, validation, databases, dashboards, and business workflows. | More structured systems that handle data, rules, users, and operational visibility. |
-| **Later** | AI-assisted workflows, automation, integrations, and enterprise-style tools. | Practical solutions that support productivity, decisions, and process improvement. |
-| **Ongoing** | Documentation, review discipline, Docker/WSL workflow, and project organization. | A stronger engineering workflow that helps me build, test, learn, and improve consistently. |
 
 ---
 
@@ -251,11 +219,11 @@ journey
 
 <br />
 
-My goal is to grow into a capable software developer who can understand real business problems and turn them into useful, reliable, and well-structured digital solutions.
+My goal is to grow into a capable software developer who can understand real problems, design clear solutions, and keep improving through practical projects.
 
-I am especially interested in **enterprise systems**, **backend logic**, **structured data**, **AI-assisted workflows**, and practical tools that improve how teams work.
+I want to connect technical skills with useful systems that help organize work, improve visibility, and support better decisions.
 
-I want to keep learning by building, reviewing, improving, and connecting technical skills with real operational needs.
+I will keep learning by building, reviewing, documenting, and improving step by step.
 
 <div align="center">
 
