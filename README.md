@@ -32,27 +32,25 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/About%20Me-Enterprise%20Solutions%20%26%20AI-0A66C2?style=for-the-badge" alt="About Me" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Identity-Computer%20Science%20Student-0F172A?style=flat-square" alt="Computer Science Student" />
-<img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-0A66C2?style=flat-square" alt="Enterprise Systems" />
-<img src="https://img.shields.io/badge/Direction-AI%20Enablement-181717?style=flat-square" alt="AI Enablement" />
-<img src="https://img.shields.io/badge/Mindset-Build%20Reliable%20Systems-0F172A?style=flat-square" alt="Build Reliable Systems" />
+<img src="https://img.shields.io/badge/About%20Me-Enterprise%20Solutions%20%2B%20AI-0A66C2?style=for-the-badge" alt="About Me" />
 
 </div>
 
 <br />
 
-> I am a Computer Science student learning how real organizations use software, data, workflows, AI, and business logic to build reliable digital solutions.
+> Computer Science student learning how software, data, workflows, and AI can support reliable enterprise solutions.
 
-I am currently building my foundation in **software engineering**, **enterprise solutions**, **AI-assisted systems**, and **practical system design**.
+I am building my foundation in **software engineering**, **backend systems**, **structured data**, and **AI-assisted business workflows**.
 
-My focus is not limited to web development or automation. I see web interfaces and automation workflows as parts of a larger system: business process, structured data, backend logic, operational visibility, and AI-supported decision making.
+My direction is to understand the business process first, then design a system that is simple, useful, and maintainable.
 
-I improve step by step through real projects, backend APIs, validation, dashboards, workflow analysis, and AI productivity layers.
+<div align="center">
+
+<a href="#-core-focus"><img src="https://img.shields.io/badge/Explore-Core%20Focus-0A66C2?style=flat-square" alt="Explore Core Focus" /></a>
+<a href="#-tools--technologies"><img src="https://img.shields.io/badge/View-Tools%20%26%20Technologies-181717?style=flat-square" alt="View Tools" /></a>
+<a href="#-solutions-im-learning-to-build"><img src="https://img.shields.io/badge/See-Solutions%20I%20Build-0F172A?style=flat-square" alt="Solutions" /></a>
+
+</div>
 
 ---
 
