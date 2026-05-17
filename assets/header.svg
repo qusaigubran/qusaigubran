@@ -1,0 +1,15 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Qusai Gubran Header</title>
+  <desc id="desc">Professional GitHub profile header for Qusai Gubran</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#181717"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bg)"/>
+  <path d="M0 126L50 132C100 138 200 150 300 145C400 140 500 118 600 116C700 114 800 132 900 139C1000 146 1100 142 1150 140L1200 138V180H1150C1100 180 1000 180 900 180C800 180 700 180 600 180C500 180 400 180 300 180C200 180 100 180 50 180H0V126Z" fill="#FFFFFF" fill-opacity="0.96"/>
+  <text x="600" y="70" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2">QUSAI GUBRAN</text>
+  <text x="600" y="104" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">Computer Science Student | Automation &amp; Web Development</text>
+</svg>
