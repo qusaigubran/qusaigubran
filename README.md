@@ -166,13 +166,39 @@ Reliable Enterprise Solution
 
 ## 🧠 Current Learning Path
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><h3>1. Software Foundations</h3><ul><li>Problem solving</li><li>Data structures and algorithms</li><li>JavaScript and Python basics</li><li>Clean code habits</li></ul></td>
-    <td width="33%" valign="top"><h3>2. Enterprise Systems</h3><ul><li>Business workflows</li><li>Backend APIs and validation</li><li>Databases and structured data handling</li><li>Dashboards and operational visibility</li></ul></td>
-    <td width="33%" valign="top"><h3>3. AI & Engineering Workflow</h3><ul><li>AI-assisted productivity</li><li>Decision support workflows</li><li>Git, GitHub, Docker, and WSL</li><li>Documentation and review discipline</li></ul></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning%20Path-Engineering%20Growth%20Track-0A66C2?style=for-the-badge" alt="Learning Path" />
+
+</div>
+
+```mermaid
+journey
+  title Engineering Growth Track
+  section Build the foundation
+    Programming basics: 4: Software Foundations
+    Data structures and algorithms: 3: Software Foundations
+    Clean code habits: 3: Software Foundations
+  section Build useful systems
+    Backend APIs and validation: 4: Enterprise Systems
+    Databases and structured data: 4: Enterprise Systems
+    Dashboards and operational visibility: 3: Enterprise Systems
+  section Add intelligence and discipline
+    AI-assisted productivity: 3: AI Direction
+    Decision support workflows: 3: AI Direction
+    Git, Docker, documentation, and review: 4: Engineering Workflow
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Now-Software%20Foundations-0F172A?style=flat-square" alt="Now" />
+<img src="https://img.shields.io/badge/Next-Enterprise%20Systems-0A66C2?style=flat-square" alt="Next" />
+<img src="https://img.shields.io/badge/Then-AI%20Enabled%20Workflows-181717?style=flat-square" alt="Then" />
+<img src="https://img.shields.io/badge/Always-Engineering%20Discipline-0A66C2?style=flat-square" alt="Always" />
+
+</div>
+
+**Current learning direction:** build strong foundations, convert business workflows into structured systems, then add AI where it supports real decisions or reduces repeated work.
 
 ---
 
