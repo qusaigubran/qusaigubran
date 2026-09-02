@@ -1,6 +1,6 @@
 <svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Qusai Gubran — GitHub Profile</title>
-  <desc id="desc">Minimal professional profile header for Qusai Gubran</desc>
+  <desc id="desc">Minimal GitHub profile header for Qusai Gubran</desc>
   <defs>
     <linearGradient id="bg" x1="80" y1="0" x2="1120" y2="220" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
@@ -18,7 +18,7 @@
   <circle cx="1110" cy="76" r="2" fill="#94A3B8" fill-opacity="0.6"/>
   <circle cx="1038" cy="92" r="2" fill="#38BDF8" fill-opacity="0.45"/>
   <text x="80" y="92" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="750" letter-spacing="1.5">QUSAI GUBRAN</text>
-  <text x="82" y="128" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Computer Science · Data Operations · Software Engineering</text>
-  <text x="82" y="164" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Building reliable systems through code, automation, data, and disciplined iteration.</text>
+  <text x="82" y="128" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Computer Science Student · Aspiring Software Engineer</text>
+  <text x="82" y="164" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Learning by building reliable software, systems, and practical projects.</text>
   <rect x="82" y="184" width="76" height="4" rx="2" fill="#38BDF8"/>
 </svg>
