@@ -40,23 +40,15 @@ Backend learning project using **Python, FastAPI, REST, SQLite, validation, CRUD
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,nextjs" alt="Core programming and web technologies" />
-
-<br /><br />
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,nextjs" alt="Programming and frontend technologies" />
+<br />
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,git,github,linux,vscode" alt="Backend and development tools" />
-
 <br /><br />
-
-<img height="32" src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify Liquid" />
-&nbsp;&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />
-&nbsp;&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/fastapi/009688" alt="REST APIs" title="REST APIs" />
-&nbsp;&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="CRM" title="CRM Workflows" />
-&nbsp;&nbsp;
-<img height="32" src="https://cdn.simpleicons.org/openai/412991" alt="AI tools" title="AI-assisted engineering tools" />
+<img height="30" src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify Liquid" />
+&nbsp;&nbsp;&nbsp;
+<img height="30" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />
+&nbsp;&nbsp;&nbsp;
+<img height="30" src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" title="CRM Workflows" />
 
 </div>
 
