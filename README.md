@@ -1,149 +1,214 @@
 <div align="center" id="top">
 
-<img width="100%" src="./assets/header.svg" alt="Qusai Gubran Header" />
-
-<h3>Building structured digital systems through software foundations, automation, and practical project work.</h3>
-
-<p>
-  <strong>Computer Science Student</strong> · <strong>Systems Builder</strong> · <strong>Automation</strong> · <strong>Web Development</strong>
-</p>
-
-<p>
-  <a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-</div>
-
----
-
-## 👋 About Me
-
-I am a **Computer Science student** learning how to build useful, reliable, and well-structured digital systems.
-
-My current focus is on **web development**, **backend fundamentals**, **automation workflows**, **data handling**, and **AI-assisted productivity**. I prefer learning by building real projects, understanding mistakes, and improving systems step by step.
-
----
-
-## ⚡ Core Focus
-
-My core focus is to connect technical learning with real workflow problems. I study how a process works, identify where errors or delays happen, then design simple software structures that make the workflow clearer and easier to improve.
-
-**Automation Systems** — building workflow ideas with tools such as n8n, integrations, forms, and repeatable process steps.
-
-**Backend Systems** — learning APIs, validation, business logic, data handling, and the structure behind reliable applications.
-
-**Business Systems** — understanding CRM systems, booking flows, dashboards, customer data, and operational visibility.
-
-**AI Layer** — using AI as a support layer for productivity, documentation, analysis, and better decision support after the core system is clear.
-
-```text
-Problem Understanding → Workflow Design → Data Structure → Backend Logic → Practical Improvement
-```
-
----
-
-## 🧰 Technologies I’m Exploring
-
-<div align="center">
-
-### Languages & Foundations
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-### Frontend & App Layer
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-### Backend, APIs & Data
-
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/API%20Design-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Design" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Data%20Handling-0F172A?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Handling" />
-
-### Automation, AI & Business Tools
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Meta%20Business-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Business" />
-<img src="https://img.shields.io/badge/CRM%20Systems-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM Systems" />
-<img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
-
-### Developer Workflow
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="WSL" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-</div>
-
----
-
-## 🚧 Featured Projects
-
-These are the real projects I am using to practice software development, workflow thinking, and documentation discipline.
-
-| Project | Real Purpose | Status |
-|---|---|---|
-| **qusaigubran / GitHub Profile** | Build a clean personal GitHub profile using README structure, local SVG assets, organized badges, and clear professional positioning. | Public |
-| **python-task-api** | Practice backend fundamentals by building a task API with Python, FastAPI, SQLite, routing, validation, CRUD operations, and automated tests. | Private / Preparing for public release |
-| **glow-abaya** | Learn e-commerce system structure through an abaya store project, including product presentation, frontend flow, project organization, and review-based development. | Private / In progress |
-| **orvanta** | Practice building and organizing a web project with a stronger focus on structure, implementation workflow, and iterative improvement. | Private / In progress |
-
----
-
-## 🧠 Current Learning Path
-
-| Stage | Focus | Practical Outcome |
-|---|---|---|
-| **Foundation** | Programming, problem solving, data structures, and clean code. | Stronger logic and clearer small programs. |
-| **Web Systems** | HTML, CSS, JavaScript, React, Next.js, APIs, and databases. | Ability to build structured web applications. |
-| **Workflow Systems** | Automation, CRM, dashboards, forms, and process analysis. | Better operational visibility and fewer manual errors. |
-| **AI Layer** | AI-assisted documentation, analysis, and workflow support. | Smarter productivity after the core system works. |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Now-Foundation%20%2B%20Web%20Systems-0F172A?style=flat-square" alt="Now" />
-<img src="https://img.shields.io/badge/Next-Backend%20%2B%20Automation-0A66C2?style=flat-square" alt="Next" />
-<img src="https://img.shields.io/badge/Later-AI%20Layer-412991?style=flat-square" alt="Later" />
-
-</div>
-
----
-
-## 🎯 Goal
-
-My goal is to grow into a capable software developer who can understand real problems, design clear solutions, and build practical systems that improve work, reduce errors, and support better decisions.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Learn-Deeply-0F172A?style=flat-square" alt="Learn Deeply" />
-<img src="https://img.shields.io/badge/Build-Practically-0A66C2?style=flat-square" alt="Build Practically" />
-<img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" alt="Improve Continuously" />
+<img width="100%" src="./assets/header.svg" alt="Qusai Gubran GitHub Profile Header" />
 
 <br />
-<br />
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-README-0A66C2?style=flat-square" alt="Back to Top" /></a>
-<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/qusaigubran"><img src="https://img.shields.io/badge/GitHub-qusaigubran-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br />
-<br />
+</div>
 
-<img width="100%" src="./assets/footer.svg" alt="Qusai Gubran Footer" />
+---
+
+## About
+
+I am a **Computer Science student**, **Data Operations Specialist**, and aspiring **Software Engineer** focused on building strong engineering foundations and turning real operational problems into clear, reliable systems.
+
+My work sits at the intersection of **software development, data operations, web systems, automation, and practical business workflows**. I care about understanding how systems behave, identifying failure points, improving structure, and building solutions that are maintainable rather than merely functional.
+
+I learn primarily through implementation: writing code, tracing behavior, testing assumptions, documenting decisions, reviewing mistakes, and progressively taking on harder engineering problems.
+
+> **Current direction:** Software Engineering · Backend Foundations · Web Systems · Automation · Data & AI Foundations
+
+---
+
+## Current Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### PEONISA — E-commerce Storefront
+
+A real Shopify storefront for an abaya fashion brand, currently my most active production-oriented project.
+
+**Engineering focus**
+- Shopify theme development with Liquid
+- Responsive storefront behavior
+- Arabic / English interface support
+- RTL-aware layouts
+- Search and product discovery flows
+- Product variant UX
+- Accessibility and storefront reliability
+- CI validation and iterative production fixes
+
+**Status:** Active development
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+
+A personal web project used to improve how I structure and present software projects, technical work, and professional information.
+
+**Engineering focus**
+- Frontend architecture
+- Reusable UI patterns
+- Lightweight design systems
+- Project detail pages
+- Responsive interface design
+- Git branching and pull-request workflow
+
+**Status:** Ongoing improvement
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Python Task API
+
+A backend learning project built to strengthen API and application fundamentals through a small, testable system.
+
+**Engineering focus**
+- Python
+- FastAPI
+- REST API design
+- Routing and validation
+- CRUD operations
+- SQLite
+- Automated testing
+- Backend structure and error handling
+
+**Status:** Private learning project
+
+</td>
+<td width="50%" valign="top">
+
+### GitHub Profile System
+
+This repository is treated as a small engineering artifact rather than a static biography.
+
+**Focus**
+- Clear technical positioning
+- Maintainable Markdown structure
+- Custom SVG assets
+- Project documentation
+- Deliberate presentation of current work
+
+**Status:** Continuously maintained
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Focus
+
+```text
+Understand the problem
+        ↓
+Model the workflow and data
+        ↓
+Design the smallest reliable solution
+        ↓
+Implement and test
+        ↓
+Observe failures and edge cases
+        ↓
+Refactor, document, and improve
+```
+
+I am currently building depth across four connected areas:
+
+| Area | What I am developing |
+|---|---|
+| **Software Engineering** | Problem decomposition, clean code, testing, debugging, maintainability, Git workflows, and engineering judgment. |
+| **Backend & Web Systems** | APIs, application logic, databases, frontend/backend interaction, validation, and reliable web architecture. |
+| **Data & Automation** | Structured data handling, operational workflows, process improvement, integrations, and automation systems. |
+| **AI Foundations** | Using AI responsibly as an engineering and productivity layer while strengthening core CS and software skills first. |
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Programming & Web
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css" alt="Programming languages" />
+
+### Application Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" alt="Application development technologies" />
+
+### Data, Infrastructure & Workflow
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux,vscode" alt="Data and developer workflow technologies" />
+
+</div>
+
+<p align="center">
+  <sub>Also working with Shopify Liquid, n8n, REST APIs, CRM workflows, Meta Business tools, and AI-assisted engineering workflows.</sub>
+</p>
+
+---
+
+## Learning Path
+
+My long-term goal is not to collect tools; it is to build durable engineering competence.
+
+**Current foundation**
+- Computer Science fundamentals
+- Python programming
+- Problem solving and program tracing
+- Mathematics for Computer Science
+- Data structures and algorithms foundations
+- Software design and testing habits
+
+**Structured study**
+- **OSSU Computer Science** curriculum
+- **MIT 6.100L** — Introduction to CS and Programming using Python
+- Deliberate practice through projects, active recall, mistake analysis, and documentation
+
+**Next depth areas**
+- Algorithms and data structures
+- Database systems
+- Backend architecture
+- Operating systems and networking
+- Scalable systems
+- Data and AI foundations
+
+---
+
+## How I Work
+
+- **Understand before implementing** — clarify the system, constraints, and failure modes first.
+- **Test assumptions** — use code, traces, logs, and reproducible checks instead of guessing.
+- **Prefer maintainability** — readable structure and clear decisions matter more than clever code.
+- **Learn from defects** — bugs and incorrect assumptions become inputs for improving the mental model.
+- **Build progressively** — small reliable systems first, then larger and more complex ones.
+
+---
+
+## Long-Term Direction
+
+I am working toward becoming a software engineer capable of designing and building **reliable, scalable, and responsible software systems**.
+
+Over time, I want to deepen my expertise in **software architecture, distributed systems, data, and AI**, develop strong technical leadership, contribute responsibly to technology, and eventually build a technology company grounded in sound engineering principles.
+
+---
+
+<div align="center">
+
+<a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-↑-0F172A?style=flat-square" alt="Back to top" /></a>
+<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img width="100%" src="./assets/footer.svg" alt="Qusai Gubran GitHub Profile Footer" />
 
 </div>
