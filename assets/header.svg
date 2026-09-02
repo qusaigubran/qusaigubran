@@ -1,15 +1,24 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Qusai Gubran Header</title>
-  <desc id="desc">Professional GitHub profile header for Qusai Gubran</desc>
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Qusai Gubran — GitHub Profile</title>
+  <desc id="desc">Minimal professional profile header for Qusai Gubran</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#181717"/>
-      <stop offset="0.5" stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#0A66C2"/>
+    <linearGradient id="bg" x1="80" y1="0" x2="1120" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#123A63"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 40) rotate(145) scale(360 190)">
+      <stop stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="180" fill="url(#bg)"/>
-  <path d="M0 126L50 132C100 138 200 150 300 145C400 140 500 118 600 116C700 114 800 132 900 139C1000 146 1100 142 1150 140L1200 138V180H1150C1100 180 1000 180 900 180C800 180 700 180 600 180C500 180 400 180 300 180C200 180 100 180 50 180H0V126Z" fill="#FFFFFF" fill-opacity="0.96"/>
-  <text x="600" y="70" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2">QUSAI GUBRAN</text>
-  <text x="600" y="104" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">Computer Science Student | Automation &amp; Web Development</text>
+  <rect width="1200" height="220" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="22" fill="url(#glow)"/>
+  <circle cx="1080" cy="46" r="3" fill="#38BDF8" fill-opacity="0.8"/>
+  <circle cx="1110" cy="76" r="2" fill="#94A3B8" fill-opacity="0.6"/>
+  <circle cx="1038" cy="92" r="2" fill="#38BDF8" fill-opacity="0.45"/>
+  <text x="80" y="92" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="750" letter-spacing="1.5">QUSAI GUBRAN</text>
+  <text x="82" y="128" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Computer Science · Data Operations · Software Engineering</text>
+  <text x="82" y="164" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Building reliable systems through code, automation, data, and disciplined iteration.</text>
+  <rect x="82" y="184" width="76" height="4" rx="2" fill="#38BDF8"/>
 </svg>
