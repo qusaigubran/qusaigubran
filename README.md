@@ -16,45 +16,55 @@
 
 **Computer Science Student · Aspiring Software Engineer**
 
-I am building strong foundations in **programming, software engineering, web systems, data, and automation** through structured study and practical projects.
+Building strong foundations in **programming, software engineering, backend systems, and problem solving** through structured study and practical projects.
 
-Currently studying **OSSU Computer Science** and **MIT 6.100L**, with a focus on problem solving, backend foundations, and writing reliable software.
+Currently studying **OSSU Computer Science** and **MIT 6.100L**.
 
 ---
 
 ## Featured Projects
 
-| Project | Focus | Status |
-|---|---|---|
-| [**PEONISA**](https://peonisa.com/) · [GitHub](https://github.com/qusaigubran/peonisa_web) | Shopify storefront, Liquid, responsive UI, Arabic/English, RTL, product UX | Active |
-| **Personal Portfolio** | Frontend architecture, reusable UI, responsive design, Git workflow | Ongoing |
-| **Python Task API** | Python, FastAPI, REST, validation, CRUD, SQLite, automated tests | Learning |
+### PEONISA
+Shopify storefront focused on **Liquid, responsive UI, Arabic/English support, RTL, and product UX**.  
+[Live ↗](https://peonisa.com/) · [Repository ↗](https://github.com/qusaigubran/peonisa_web)
+
+### Personal Portfolio
+Personal frontend project focused on **reusable UI, responsive design, and Git workflow**.
+
+### Python Task API
+Backend learning project using **Python, FastAPI, REST, SQLite, validation, CRUD, and automated tests**.
 
 ---
 
-## Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,nextjs,nodejs,fastapi,postgres,sqlite,docker,git,github,linux,vscode" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,nextjs" alt="Core programming and web technologies" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Liquid" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/CRM_Workflows-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="CRM Workflows" />
-<img src="https://img.shields.io/badge/AI_Tools-412991?style=flat-square&logo=openai&logoColor=white" alt="AI-assisted engineering tools" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,git,github,linux,vscode" alt="Backend and development tools" />
+
+<br /><br />
+
+<img height="32" src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify Liquid" />
+&nbsp;&nbsp;
+<img height="32" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />
+&nbsp;&nbsp;
+<img height="32" src="https://cdn.simpleicons.org/fastapi/009688" alt="REST APIs" title="REST APIs" />
+&nbsp;&nbsp;
+<img height="32" src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="CRM" title="CRM Workflows" />
+&nbsp;&nbsp;
+<img height="32" src="https://cdn.simpleicons.org/openai/412991" alt="AI tools" title="AI-assisted engineering tools" />
 
 </div>
 
 ---
 
-## Current Focus
+## Currently Learning
 
-**Software Engineering · Backend Systems · Data & Automation · Algorithms & CS Fundamentals**
-
-My goal is to become a software engineer capable of building **reliable, scalable, and responsible systems**.
+**OSSU · MIT 6.100L · Algorithms · Backend Systems · CS Fundamentals**
 
 ---
 
