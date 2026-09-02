@@ -26,7 +26,7 @@ Currently studying **OSSU Computer Science** and **MIT 6.100L** while building r
 
 | Project | Focus | Status |
 |---|---|---|
-| **PEONISA** | Shopify storefront, Liquid, responsive UI, Arabic/English, RTL, product UX | Active |
+| [**PEONISA**](https://peonisa.com/) · [GitHub](https://github.com/qusaigubran/peonisa_web) | Shopify storefront, Liquid, responsive UI, Arabic/English, RTL, product UX | Active |
 | **Personal Portfolio** | Frontend architecture, reusable UI, responsive design, Git workflow | Ongoing |
 | **Python Task API** | Python, FastAPI, REST, validation, CRUD, SQLite, automated tests | Learning |
 
@@ -40,7 +40,11 @@ Currently studying **OSSU Computer Science** and **MIT 6.100L** while building r
 
 <br /><br />
 
-<sub>Also working with Shopify Liquid, n8n, REST APIs, CRM workflows, and AI-assisted engineering tools.</sub>
+<img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Liquid" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/CRM_Workflows-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="CRM Workflows" />
+<img src="https://img.shields.io/badge/AI_Tools-412991?style=flat-square&logo=openai&logoColor=white" alt="AI-assisted engineering tools" />
 
 </div>
 
