@@ -14,11 +14,11 @@
 
 ## About
 
-**Computer Science student · Data Operations Specialist · Aspiring Software Engineer**
+**Computer Science Student · Aspiring Software Engineer**
 
-I build practical systems across **software development, web, data, and automation**, with a strong focus on reliability, maintainability, and continuous improvement.
+I am building strong foundations in **programming, software engineering, web systems, data, and automation** through structured study and practical projects.
 
-Currently studying **OSSU Computer Science** and **MIT 6.100L** while building real projects alongside my coursework.
+Currently studying **OSSU Computer Science** and **MIT 6.100L**, with a focus on problem solving, backend foundations, and writing reliable software.
 
 ---
 
