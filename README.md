@@ -29,9 +29,41 @@ I'm building strong foundations in **programming, software engineering, backend 
 
 <br />
 
+## 💼 Experience
+
+<table>
+<tr>
+<td width="72" align="center" valign="middle">🏢</td>
+<td valign="top">
+
+**[PTP Technological Solutions](https://ptp.sa/)**  
+Team member · Saudi Arabia  
+A Saudi technology company delivering digital consulting, software, cybersecurity, AI, and cloud services.
+
+</td>
+</tr>
+</table>
+
+<br />
+
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔎 Apollo Supplier Research Engine
+Python CLI that finds industrial spare-parts suppliers in Saudi Arabia through the official Apollo.io API, then stores, enriches, and exports the results.
+
+- **Credit-aware search** — dry runs, credit caps, and resumable pagination
+- **SQLite storage** with migrations and run logs
+- **Enrichment** — company websites, people lookup, scope classification and prioritization
+- **Export** to Excel and CSV, with offline unit tests
+
+`Python` `REST API` `SQLite` `Data Enrichment` `CLI` `Testing`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -45,25 +77,15 @@ Premium bilingual Shopify storefront for an Arabic/English abaya brand — refin
 </td>
 <td width="50%" valign="top">
 
-### 🏢 PTP Technological Solutions
-Part of the team at PTP — a Saudi technology company delivering digital consulting, software, cybersecurity, AI, and cloud services.
-
-`Software` `Cybersecurity` `AI` `Cloud`
-
-[**ptp.sa ↗**](https://ptp.sa/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🐍 Python Task API
 Backend learning project — a clean REST API with validation, full CRUD, and automated tests.
 
 `Python` `FastAPI` `REST` `SQLite` `Testing`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 💻 Personal Portfolio
 Personal frontend project focused on reusable UI components, responsive design, and a clean Git workflow.
