@@ -126,6 +126,13 @@ Personal frontend project focused on reusable UI components, responsive design, 
 <img height="40" src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" title="CRM Workflows" />
 </td>
 </tr>
+<tr>
+<td align="center"><b>Meta Platforms</b></td>
+<td>
+<img src="https://img.shields.io/badge/Meta_Business_Manager-Admin_%26_Verification-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta Business Manager — administration and business verification" /><br />
+<img src="https://img.shields.io/badge/Meta_for_Developers-Developer_Tools-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta for Developers tools" />
+</td>
+</tr>
 </table>
 
 <br />
