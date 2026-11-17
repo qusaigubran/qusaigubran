@@ -168,6 +168,39 @@ Personal frontend project focused on reusable UI components, responsive design, 
 
 <br />
 
+## 🏅 Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Harvard_University-0B1424?style=for-the-badge&logo=harvard&logoColor=A51C30" alt="Harvard University" />
+
+**CS50's Introduction to Programming with Python**  
+Harvard University · CS50P · Issued Jun 2026
+
+`Python` `OOP` `Unit Testing` `pytest` `Regular Expressions` `File I/O`
+
+[**View credential ↗**](https://certificates.cs50.io/da882037-2359-4827-85ff-7bb3cf4ea58a.pdf)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/University_of_Michigan-0B1424?style=for-the-badge&logo=coursera&logoColor=0056D2" alt="University of Michigan · Coursera" />
+
+**Programming for Everybody (Getting Started with Python)**  
+University of Michigan · Coursera · Issued Oct 2026
+
+`Python` `Programming Fundamentals` `Problem Solving`
+
+[**View credential ↗**](https://www.coursera.org/account/accomplishments/records/LM5BX10I1H5Q)
+
+</td>
+</tr>
+</table>
+
+<br />
+
 ## 🧭 Learning Roadmap
 
 | Track | Focus | Status |
