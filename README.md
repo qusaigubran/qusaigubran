@@ -24,7 +24,7 @@ I'm building strong foundations in **programming, software engineering, backend 
 - 🎓 Following the **OSSU Computer Science** curriculum and **MIT 6.100L**
 - ⚙️ Focused on **backend logic, automation systems, and business workflows**
 - 🛡️ Building a parallel **Cybersecurity** specialization
-- 🤝 Part of the team behind **[Tarh](https://tarhplatform.com/)** — a B2B platform
+- 🏢 Part of the team at **[PTP](https://ptp.sa/)** — a Saudi technology company
 - 🌍 Working in **Arabic & English**
 
 <br />
@@ -45,12 +45,12 @@ Premium bilingual Shopify storefront for an Arabic/English abaya brand — refin
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Tarh Platform
-B2B services platform — I'm part of the team building and growing it.
+### 🏢 PTP Technological Solutions
+Part of the team at PTP — a Saudi technology company delivering digital consulting, software, cybersecurity, AI, and cloud services.
 
-`B2B` `Business Workflows` `Automation`
+`Software` `Cybersecurity` `AI` `Cloud`
 
-[**Visit ↗**](https://tarhplatform.com/)
+[**ptp.sa ↗**](https://ptp.sa/)
 
 </td>
 </tr>
