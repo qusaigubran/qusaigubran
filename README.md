@@ -151,6 +151,13 @@ Personal frontend project focused on reusable UI components, responsive design, 
 </td>
 </tr>
 <tr>
+<td align="center"><b>Data & Prospecting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Apollo.io-Platform-FACC15?style=for-the-badge&labelColor=0B1424" alt="Apollo.io platform" /><br />
+<img src="https://img.shields.io/badge/Apollo.io-REST_API-FACC15?style=for-the-badge&labelColor=0B1424" alt="Apollo.io API" />
+</td>
+</tr>
+<tr>
 <td align="center"><b>Meta Platforms</b></td>
 <td>
 <img src="https://img.shields.io/badge/Meta_Business_Manager-Admin_%26_Verification-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta Business Manager — administration and business verification" /><br />
