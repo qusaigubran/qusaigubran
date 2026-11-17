@@ -1,24 +1,94 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Qusai Gubran — GitHub Profile</title>
-  <desc id="desc">Minimal GitHub profile header for Qusai Gubran</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Qusai Gubran — Computer Science Student · Backend &amp; Automation · Cybersecurity</title>
+  <desc id="desc">GitHub profile header for Qusai Gubran</desc>
   <defs>
-    <linearGradient id="bg" x1="80" y1="0" x2="1120" y2="220" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111F"/>
-      <stop offset="0.52" stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#123A63"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.55" stop-color="#0B1424"/>
+      <stop offset="1" stop-color="#0E2236"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 40) rotate(145) scale(360 190)">
-      <stop stop-color="#38BDF8" stop-opacity="0.18"/>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 40) rotate(140) scale(420 260)">
+      <stop stop-color="#38BDF8" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 300) rotate(-30) scale(380 200)">
+      <stop stop-color="#34D399" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.4"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="300" fill="url(#gridFade)"/></mask>
+    <clipPath id="card"><rect width="1200" height="300" rx="20"/></clipPath>
   </defs>
-  <rect width="1200" height="220" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="220" rx="22" fill="url(#glow)"/>
-  <circle cx="1080" cy="46" r="3" fill="#38BDF8" fill-opacity="0.8"/>
-  <circle cx="1110" cy="76" r="2" fill="#94A3B8" fill-opacity="0.6"/>
-  <circle cx="1038" cy="92" r="2" fill="#38BDF8" fill-opacity="0.45"/>
-  <text x="80" y="92" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="750" letter-spacing="1.5">QUSAI GUBRAN</text>
-  <text x="82" y="128" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Computer Science Student · Aspiring Software Engineer</text>
-  <text x="82" y="164" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Learning by building reliable software, systems, and practical projects.</text>
-  <rect x="82" y="184" width="76" height="4" rx="2" fill="#38BDF8"/>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)" mask="url(#gridMask)"/>
+    <rect width="1200" height="300" fill="url(#glowA)"/>
+    <rect width="1200" height="300" fill="url(#glowB)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <!-- Left: identity -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="64" y="74" font-size="15" fill="#38BDF8" letter-spacing="0.5">~/qusai-gubran</text>
+    <text x="202" y="74" font-size="15" fill="#64748B">$ whoami</text>
+  </g>
+  <text x="62" y="134" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#F8FAFC" letter-spacing="1.5">QUSAI GUBRAN</text>
+  <text x="64" y="170" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#CBD5E1">Computer Science Student · Aspiring Software Engineer</text>
+  <rect x="64" y="190" width="236" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="64" y="214" width="154" height="30" rx="15" fill="#38BDF8" fill-opacity="0.10" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <circle cx="82" cy="229" r="4" fill="#38BDF8"/>
+    <text x="94" y="234" fill="#BAE6FD">Backend Systems</text>
+
+    <rect x="228" y="214" width="120" height="30" rx="15" fill="#34D399" fill-opacity="0.10" stroke="#34D399" stroke-opacity="0.35"/>
+    <circle cx="246" cy="229" r="4" fill="#34D399"/>
+    <text x="258" y="234" fill="#A7F3D0">Automation</text>
+
+    <rect x="358" y="214" width="138" height="30" rx="15" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-opacity="0.35"/>
+    <circle cx="376" cy="229" r="4" fill="#A78BFA"/>
+    <text x="388" y="234" fill="#DDD6FE">Cybersecurity</text>
+  </g>
+
+  <!-- Right: code window -->
+  <g>
+    <rect x="684" y="46" width="456" height="208" rx="14" fill="#060A12" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M684 60C684 52.268 690.268 46 698 46H1126C1133.73 46 1140 52.268 1140 60V82H684V60Z" fill="#FFFFFF" fill-opacity="0.035"/>
+    <line x1="684" y1="82" x2="1140" y2="82" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <circle cx="706" cy="64" r="5.5" fill="#F87171"/>
+    <circle cx="725" cy="64" r="5.5" fill="#FBBF24"/>
+    <circle cx="744" cy="64" r="5.5" fill="#34D399"/>
+    <text x="912" y="69" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#64748B">profile.py</text>
+
+    <g xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5">
+      <text x="706" y="112" fill="#475569">1</text>
+      <text x="706" y="136" fill="#475569">2</text>
+      <text x="706" y="160" fill="#475569">3</text>
+      <text x="706" y="184" fill="#475569">4</text>
+      <text x="706" y="208" fill="#475569">5</text>
+      <text x="706" y="232" fill="#475569">6</text>
+
+      <text x="734" y="112"><tspan fill="#C084FC">class</tspan><tspan fill="#FBBF24"> Engineer</tspan><tspan fill="#94A3B8">:</tspan></text>
+      <text x="734" y="136"><tspan fill="#E2E8F0">    name  </tspan><tspan fill="#94A3B8">= </tspan><tspan fill="#86EFAC">"Qusai Gubran"</tspan></text>
+      <text x="734" y="160"><tspan fill="#E2E8F0">    stack </tspan><tspan fill="#94A3B8">= [</tspan><tspan fill="#86EFAC">"Python"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"FastAPI"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"n8n"</tspan><tspan fill="#94A3B8">]</tspan></text>
+      <text x="734" y="184"><tspan fill="#E2E8F0">    focus </tspan><tspan fill="#94A3B8">= [</tspan><tspan fill="#86EFAC">"backend"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"automation"</tspan><tspan fill="#94A3B8">]</tspan></text>
+      <text x="734" y="208"><tspan fill="#E2E8F0">    learn </tspan><tspan fill="#94A3B8">= [</tspan><tspan fill="#86EFAC">"OSSU"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Cybersecurity"</tspan><tspan fill="#94A3B8">]</tspan></text>
+      <text x="734" y="232"><tspan fill="#E2E8F0">    based </tspan><tspan fill="#94A3B8">= </tspan><tspan fill="#86EFAC">"Saudi Arabia"</tspan></text>
+    </g>
+    <rect x="966" y="219" width="8" height="17" rx="1" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>
