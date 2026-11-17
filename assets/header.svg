@@ -72,7 +72,7 @@
     <circle cx="744" cy="64" r="5.5" fill="#34D399"/>
     <text x="912" y="69" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#64748B">profile.py</text>
 
-    <g xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5">
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5">
       <text x="706" y="112" fill="#475569">1</text>
       <text x="706" y="136" fill="#475569">2</text>
       <text x="706" y="160" fill="#475569">3</text>
@@ -80,15 +80,12 @@
       <text x="706" y="208" fill="#475569">5</text>
       <text x="706" y="232" fill="#475569">6</text>
 
-      <text x="734" y="112"><tspan fill="#C084FC">class</tspan><tspan fill="#FBBF24"> Engineer</tspan><tspan fill="#94A3B8">:</tspan></text>
-      <text x="734" y="136"><tspan fill="#E2E8F0">    name  </tspan><tspan fill="#94A3B8">= </tspan><tspan fill="#86EFAC">"Qusai Gubran"</tspan></text>
-      <text x="734" y="160"><tspan fill="#E2E8F0">    stack </tspan><tspan fill="#94A3B8">= [</tspan><tspan fill="#86EFAC">"Python"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"FastAPI"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"n8n"</tspan><tspan fill="#94A3B8">]</tspan></text>
-      <text x="734" y="184"><tspan fill="#E2E8F0">    focus </tspan><tspan fill="#94A3B8">= [</tspan><tspan fill="#86EFAC">"backend"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"automation"</tspan><tspan fill="#94A3B8">]</tspan></text>
-      <text x="734" y="208"><tspan fill="#E2E8F0">    learn </tspan><tspan fill="#94A3B8">= [</tspan><tspan fill="#86EFAC">"OSSU"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Cybersecurity"</tspan><tspan fill="#94A3B8">]</tspan></text>
-      <text x="734" y="232"><tspan fill="#E2E8F0">    based </tspan><tspan fill="#94A3B8">= </tspan><tspan fill="#86EFAC">"Saudi Arabia"</tspan></text>
+      <text x="734" y="112"><tspan fill="#C084FC">class</tspan><tspan fill="#FBBF24">&#160;Engineer</tspan><tspan fill="#94A3B8">:</tspan></text>
+      <text x="769" y="136"><tspan fill="#E2E8F0">name</tspan><tspan fill="#94A3B8">&#160;=&#160;</tspan><tspan fill="#86EFAC">"Qusai&#160;Gubran"</tspan></text>
+      <text x="769" y="160"><tspan fill="#E2E8F0">stack</tspan><tspan fill="#94A3B8">&#160;=&#160;[</tspan><tspan fill="#86EFAC">"Python"</tspan><tspan fill="#94A3B8">,&#160;</tspan><tspan fill="#86EFAC">"FastAPI"</tspan><tspan fill="#94A3B8">,&#160;</tspan><tspan fill="#86EFAC">"n8n"</tspan><tspan fill="#94A3B8">]</tspan></text>
+      <text x="769" y="184"><tspan fill="#E2E8F0">focus</tspan><tspan fill="#94A3B8">&#160;=&#160;[</tspan><tspan fill="#86EFAC">"backend"</tspan><tspan fill="#94A3B8">,&#160;</tspan><tspan fill="#86EFAC">"automation"</tspan><tspan fill="#94A3B8">]</tspan></text>
+      <text x="769" y="208"><tspan fill="#E2E8F0">learn</tspan><tspan fill="#94A3B8">&#160;=&#160;[</tspan><tspan fill="#86EFAC">"OSSU"</tspan><tspan fill="#94A3B8">,&#160;</tspan><tspan fill="#86EFAC">"Cybersecurity"</tspan><tspan fill="#94A3B8">]</tspan></text>
+      <text x="769" y="232"><tspan fill="#E2E8F0">based</tspan><tspan fill="#94A3B8">&#160;=&#160;</tspan><tspan fill="#86EFAC">"Saudi&#160;Arabia"</tspan><tspan fill="#38BDF8">&#160;▍<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
     </g>
-    <rect x="966" y="219" width="8" height="17" rx="1" fill="#38BDF8">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
   </g>
 </svg>
