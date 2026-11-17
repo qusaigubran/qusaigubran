@@ -5,7 +5,7 @@
 <br />
 
 <a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Email-qusai.m.gubran@gmail.com-0B1424?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1424?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/qusaigubran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1424?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Saudi_Arabia-0B1424?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Based in Saudi Arabia" />
 
 </div>
