@@ -1,15 +1,12 @@
 <div align="center" id="top">
 
-<img width="100%" src="./assets/header.svg" alt="Qusai Gubran GitHub Profile Header" />
-
-<a href="#top"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Backend+%26+Automation+Builder;Learning+Cybersecurity;Building+in+public%2C+one+commit+at+a+time" alt="Computer Science Student · Backend & Automation · Cybersecurity" /></a>
+<img width="100%" src="./assets/header.svg" alt="Qusai Gubran — Computer Science Student · Automation & Data Extraction" />
 
 <br />
 
-<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Saudi_Arabia-Based-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Saudi Arabia" />
-<img src="https://komarev.com/ghpvc/?username=qusaigubran&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views" />
+<a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Email-qusai.m.gubran@gmail.com-0B1424?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/qusai-gubran-b34240306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1424?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Saudi_Arabia-0B1424?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Based in Saudi Arabia" />
 
 </div>
 
@@ -17,14 +14,13 @@
 
 ## 👋 About Me
 
-**Computer Science Student · Aspiring Software Engineer**
+**Computer Science Student · Automation & Data Extraction**
 
-I'm building strong foundations in **programming, software engineering, backend systems, and problem solving** — through structured study and real projects that ship.
+I build **API-driven engines** that extract, enrich, and manage business data — and I automate the workflows around them. Alongside work, I'm building strong CS foundations through structured self-study.
 
+- ⚙️ Building **data extraction engines** and **automation workflows** with Python and APIs
 - 🎓 Following the **OSSU Computer Science** curriculum and **MIT 6.100L**
-- ⚙️ Focused on **backend logic, automation systems, and business workflows**
-- 🛡️ Building a parallel **Cybersecurity** specialization
-- 🏢 Part of the team at **[PTP](https://ptp.sa/)** — a Saudi technology company
+- 🛡️ Studying **Cybersecurity** in parallel
 - 🌍 Working in **Arabic & English**
 
 <br />
@@ -36,9 +32,12 @@ I'm building strong foundations in **programming, software engineering, backend 
 <td width="72" align="center" valign="middle">🏢</td>
 <td valign="top">
 
-**[PTP Technological Solutions](https://ptp.sa/)**  
-Team member · Saudi Arabia  
-A Saudi technology company delivering digital consulting, software, cybersecurity, AI, and cloud services.
+**Automation & Data Extraction** · [PTP Technological Solutions](https://ptp.sa/)  
+Saudi Arabia
+
+- Build **API engines** that extract business data from external platforms
+- Store, enrich, and **manage data** for prospecting and operations
+- Automate repetitive **business workflows** to reduce manual work
 
 </td>
 </tr>
@@ -69,20 +68,22 @@ Python CLI that finds industrial spare-parts suppliers in Saudi Arabia through t
 <tr>
 <td width="50%" valign="top">
 
+### 🐍 Python Task API
+Tested REST API for managing tasks — full CRUD, SQLite persistence, documented Swagger UI, CI on every push, and Docker support.
+
+`Python` `FastAPI` `SQLite` `Pytest` `GitHub Actions` `Docker`
+
+[**Repository ↗**](https://github.com/qusaigubran/python-task-api)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛍️ PEONISA
 Premium bilingual Shopify storefront for an Arabic/English abaya brand — refined UX, reliable commerce flows, RTL, accessibility, and performance.
 
 `Shopify Liquid` `Responsive UI` `RTL` `i18n`
 
 [**Live site ↗**](https://peonisa.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐍 Python Task API
-Backend learning project — a clean REST API with validation, full CRUD, and automated tests.
-
-`Python` `FastAPI` `REST` `SQLite` `Testing`
 
 </td>
 </tr>
@@ -94,6 +95,73 @@ Personal frontend project focused on reusable UI components, responsive design, 
 
 `Frontend` `Responsive Design` `Git`
 
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="150"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0B1424?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C-0B1424?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-0B1424?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-0B1424?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>Backend & Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-0B1424?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/SQLite-0B1424?style=for-the-badge&logo=sqlite&logoColor=4FA3D1" alt="SQLite" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B1424?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/REST_APIs-0B1424?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="REST APIs" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>Data & Prospecting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Apollo.io-0B1424?style=for-the-badge" alt="Apollo.io" />
+<img src="https://img.shields.io/badge/Apollo.io_API-0B1424?style=for-the-badge" alt="Apollo.io API" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>Meta Platforms</b></td>
+<td>
+<img src="https://img.shields.io/badge/Meta_Business_Manager_%C2%B7_Admin_%26_Verification-0B1424?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Meta Business Manager · Admin & Verification" />
+<img src="https://img.shields.io/badge/Meta_for_Developers-0B1424?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Meta for Developers" />
+<img src="https://img.shields.io/badge/WhatsApp_Business_Cloud_API-0B1424?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp Business Cloud API" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>Automation & Commerce</b></td>
+<td>
+<img src="https://img.shields.io/badge/n8n-0B1424?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img src="https://img.shields.io/badge/HubSpot-0B1424?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
+<img src="https://img.shields.io/badge/Shopify_Liquid-0B1424?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify Liquid" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-0B1424?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0B1424?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-0B1424?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0B1424?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>Tools & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0B1424?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0B1424?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-0B1424?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-0B1424?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/VS_Code-0B1424?style=for-the-badge&logo=vscodium&logoColor=2F80ED" alt="VS Code" />
 </td>
 </tr>
 </table>
@@ -115,64 +183,16 @@ Personal frontend project focused on reusable UI components, responsive design, 
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=qusaigubran&background=0B1424&border=1E293B&stroke=1E293B&ring=38BDF8&fire=34D399&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=14" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qusaigubran&bg_color=0B1424&color=94A3B8&title_color=F8FAFC&line=38BDF8&point=34D399&area=true&area_color=38BDF8&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img width="60%" src="https://streak-stats.demolab.com?user=qusaigubran&background=0B1424&border=1E293B&stroke=1E293B&ring=38BDF8&fire=34D399&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=14" alt="GitHub streak" />
 
 </div>
 
 <br />
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" alt="Python, C, C++, JavaScript, TypeScript" /></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="HTML, CSS, React, Next.js" /></td>
-</tr>
-<tr>
-<td align="center"><b>Backend & Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker" alt="FastAPI, PostgreSQL, SQLite, Docker" /></td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code" /></td>
-</tr>
-<tr>
-<td align="center"><b>Commerce & Automation</b></td>
-<td>
-<img height="40" src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify Liquid" />&nbsp;&nbsp;
-<img height="40" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />&nbsp;&nbsp;
-<img height="40" src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" title="CRM Workflows" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Data & Prospecting</b></td>
-<td>
-<img src="https://img.shields.io/badge/Apollo.io-Platform-FACC15?style=for-the-badge&labelColor=0B1424" alt="Apollo.io platform" /><br />
-<img src="https://img.shields.io/badge/Apollo.io-REST_API-FACC15?style=for-the-badge&labelColor=0B1424" alt="Apollo.io API" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Meta Platforms</b></td>
-<td>
-<img src="https://img.shields.io/badge/Meta_Business_Manager-Admin_%26_Verification-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta Business Manager — administration and business verification" /><br />
-<img src="https://img.shields.io/badge/Meta_for_Developers-Developer_Tools-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta for Developers tools" /><br />
-<img src="https://img.shields.io/badge/WhatsApp_Business-Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1424" alt="WhatsApp Business Cloud API" />
-</td>
-</tr>
-</table>
-
-<br />
-
 <div align="center">
 
-<a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-↑-0F172A?style=flat-square" alt="Back to top" /></a>
-<a href="mailto:qusaigubran24@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-↑-0B1424?style=flat-square" alt="Back to top" /></a>
+<a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0B1424?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br /><br />
 
