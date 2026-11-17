@@ -62,6 +62,8 @@ Python CLI that finds industrial spare-parts suppliers in Saudi Arabia through t
 
 `Python` `REST API` `SQLite` `Data Enrichment` `CLI` `Testing`
 
+[**Repository ↗**](https://github.com/qusaigubran/Apollo_api)
+
 </td>
 </tr>
 <tr>
@@ -152,7 +154,8 @@ Personal frontend project focused on reusable UI components, responsive design, 
 <td align="center"><b>Meta Platforms</b></td>
 <td>
 <img src="https://img.shields.io/badge/Meta_Business_Manager-Admin_%26_Verification-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta Business Manager — administration and business verification" /><br />
-<img src="https://img.shields.io/badge/Meta_for_Developers-Developer_Tools-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta for Developers tools" />
+<img src="https://img.shields.io/badge/Meta_for_Developers-Developer_Tools-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B1424" alt="Meta for Developers tools" /><br />
+<img src="https://img.shields.io/badge/WhatsApp_Business-Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1424" alt="WhatsApp Business Cloud API" />
 </td>
 </tr>
 </table>
