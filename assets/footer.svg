@@ -2,22 +2,22 @@
   <title id="title">Thanks for visiting — Qusai Gubran</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0E2236"/>
-      <stop offset="0.45" stop-color="#0B1424"/>
-      <stop offset="1" stop-color="#070B14"/>
+      <stop stop-color="#1E1B4B"/>
+      <stop offset="0.45" stop-color="#1E1B4B"/>
+      <stop offset="1" stop-color="#0B0F1A"/>
     </linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 120) scale(520 110)">
-      <stop stop-color="#38BDF8" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop stop-color="#5046E5" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#5046E5" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="line" x1="300" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="0.3" stop-color="#38BDF8"/>
-      <stop offset="0.7" stop-color="#34D399"/>
-      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+      <stop stop-color="#5046E5" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#5046E5"/>
+      <stop offset="0.7" stop-color="#8B7CF6"/>
+      <stop offset="1" stop-color="#8B7CF6" stop-opacity="0"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+      <path d="M32 0H0V32" stroke="#F5F7FF" stroke-opacity="0.03" stroke-width="1"/>
     </pattern>
     <clipPath id="card"><rect width="1200" height="120" rx="20"/></clipPath>
   </defs>
@@ -26,9 +26,9 @@
     <rect width="1200" height="120" fill="url(#grid)"/>
     <rect width="1200" height="120" fill="url(#glow)"/>
   </g>
-  <rect x="0.5" y="0.5" width="1199" height="119" rx="19.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="1199" height="119" rx="19.5" stroke="#C7C1FF" stroke-opacity="0.14"/>
 
-  <text x="600" y="54" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F1F5F9" letter-spacing="0.5">Thanks for stopping by</text>
+  <text x="600" y="54" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F5F7FF" letter-spacing="0.5">Thanks for stopping by</text>
   <rect x="440" y="70" width="320" height="2" rx="1" fill="url(#line)"/>
-  <text x="600" y="96" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#64748B">building reliable systems — one commit at a time</text>
+  <text x="600" y="96" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#C7C1FF">building reliable systems — one commit at a time</text>
 </svg>
