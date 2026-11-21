@@ -4,9 +4,9 @@
 
 <br />
 
-<a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Email-qusai.m.gubran@gmail.com-0B1424?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/qusaigubran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1424?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Saudi_Arabia-0B1424?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Based in Saudi Arabia" />
+<a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Email-qusai.m.gubran@gmail.com-1E1B4B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/qusaigubran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Saudi_Arabia-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=8B7CF6" alt="Based in Saudi Arabia" />
 
 </div>
 
@@ -107,61 +107,61 @@ Personal frontend project focused on reusable UI components, responsive design, 
 <tr>
 <td align="center" width="150"><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-0B1424?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/C-0B1424?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-<img src="https://img.shields.io/badge/JavaScript-0B1424?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-0B1424?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C-1E1B4B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 </td>
 </tr>
 <tr>
 <td align="center" width="150"><b>Backend & Data</b></td>
 <td>
-<img src="https://img.shields.io/badge/FastAPI-0B1424?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-<img src="https://img.shields.io/badge/SQLite-0B1424?style=for-the-badge&logo=sqlite&logoColor=4FA3D1" alt="SQLite" />
-<img src="https://img.shields.io/badge/PostgreSQL-0B1424?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/REST_APIs-0B1424?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="REST APIs" />
+<img src="https://img.shields.io/badge/FastAPI-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/SQLite-1E1B4B?style=for-the-badge&logo=sqlite&logoColor=4FA3D1" alt="SQLite" />
+<img src="https://img.shields.io/badge/PostgreSQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="REST APIs" />
 </td>
 </tr>
 <tr>
 <td align="center" width="150"><b>Data & Prospecting</b></td>
 <td>
-<img src="https://img.shields.io/badge/Apollo.io-0B1424?style=for-the-badge" alt="Apollo.io" />
-<img src="https://img.shields.io/badge/Apollo.io_API-0B1424?style=for-the-badge" alt="Apollo.io API" />
+<img src="https://img.shields.io/badge/Apollo.io-1E1B4B?style=for-the-badge" alt="Apollo.io" />
+<img src="https://img.shields.io/badge/Apollo.io_API-1E1B4B?style=for-the-badge" alt="Apollo.io API" />
 </td>
 </tr>
 <tr>
 <td align="center" width="150"><b>Meta Platforms</b></td>
 <td>
-<img src="https://img.shields.io/badge/Meta_Business_Manager_%C2%B7_Admin_%26_Verification-0B1424?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Meta Business Manager · Admin & Verification" />
-<img src="https://img.shields.io/badge/Meta_for_Developers-0B1424?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Meta for Developers" />
-<img src="https://img.shields.io/badge/WhatsApp_Business_Cloud_API-0B1424?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp Business Cloud API" />
+<img src="https://img.shields.io/badge/Meta_Business_Manager_%C2%B7_Admin_%26_Verification-1E1B4B?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Meta Business Manager · Admin & Verification" />
+<img src="https://img.shields.io/badge/Meta_for_Developers-1E1B4B?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Meta for Developers" />
+<img src="https://img.shields.io/badge/WhatsApp_Business_Cloud_API-1E1B4B?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp Business Cloud API" />
 </td>
 </tr>
 <tr>
 <td align="center" width="150"><b>Automation & Commerce</b></td>
 <td>
-<img src="https://img.shields.io/badge/n8n-0B1424?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
-<img src="https://img.shields.io/badge/HubSpot-0B1424?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
-<img src="https://img.shields.io/badge/Shopify_Liquid-0B1424?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify Liquid" />
+<img src="https://img.shields.io/badge/n8n-1E1B4B?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img src="https://img.shields.io/badge/HubSpot-1E1B4B?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
+<img src="https://img.shields.io/badge/Shopify_Liquid-1E1B4B?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify Liquid" />
 </td>
 </tr>
 <tr>
 <td align="center" width="150"><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/HTML5-0B1424?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0B1424?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-0B1424?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0B1424?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1E1B4B?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1E1B4B?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
 </td>
 </tr>
 <tr>
 <td align="center" width="150"><b>Tools & DevOps</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-0B1424?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0B1424?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Docker-0B1424?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-0B1424?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/VS_Code-0B1424?style=for-the-badge&logo=vscodium&logoColor=2F80ED" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-1E1B4B?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-1E1B4B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/VS_Code-1E1B4B?style=for-the-badge&logo=vscodium&logoColor=2F80ED" alt="VS Code" />
 </td>
 </tr>
 </table>
@@ -174,7 +174,7 @@ Personal frontend project focused on reusable UI components, responsive design, 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Harvard_University-0B1424?style=for-the-badge&logo=harvard&logoColor=A51C30" alt="Harvard University" />
+<img src="https://img.shields.io/badge/Harvard_University-1E1B4B?style=for-the-badge&logo=harvard&logoColor=A51C30" alt="Harvard University" />
 
 **CS50's Introduction to Programming with Python**  
 Harvard University · CS50P · Issued Jun 2026
@@ -186,7 +186,7 @@ Harvard University · CS50P · Issued Jun 2026
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/University_of_Michigan-0B1424?style=for-the-badge&logo=coursera&logoColor=0056D2" alt="University of Michigan · Coursera" />
+<img src="https://img.shields.io/badge/University_of_Michigan-1E1B4B?style=for-the-badge&logo=coursera&logoColor=0056D2" alt="University of Michigan · Coursera" />
 
 **Programming for Everybody (Getting Started with Python)**  
 University of Michigan · Coursera · Issued Oct 2026
@@ -216,7 +216,7 @@ University of Michigan · Coursera · Issued Oct 2026
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=qusaigubran&background=0B1424&border=1E293B&stroke=1E293B&ring=38BDF8&fire=34D399&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=14" alt="GitHub streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=qusaigubran&background=0B0F1A&border=1E1B4B&stroke=5046E5&ring=8B7CF6&fire=5046E5&currStreakNum=F5F7FF&sideNums=F5F7FF&currStreakLabel=8B7CF6&sideLabels=C7C1FF&dates=C7C1FF&border_radius=14" alt="GitHub streak" />
 
 </div>
 
@@ -224,8 +224,8 @@ University of Michigan · Coursera · Issued Oct 2026
 
 <div align="center">
 
-<a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-↑-0B1424?style=flat-square" alt="Back to top" /></a>
-<a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0B1424?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-↑-1E1B4B?style=flat-square" alt="Back to top" /></a>
+<a href="mailto:qusai.m.gubran@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-1E1B4B?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br /><br />
 
